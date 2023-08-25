@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto$$$http://tvfan.xxooo.cf/"
+      "ext": "./tok.txt+4k┃fhd┃auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "剧白白新",
@@ -1000,7 +1000,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "./tok.txt+4k┃fhd┃auto"
     },
     {
       "key": "Zhaozy",
@@ -1011,7 +1011,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto$$$yannanfei$$$abcdefg"
+      "ext": "./tok.txt+4k┃fhd┃auto$$$yannanfei$$$abcdefg"
     },
     {
       "key": "PanSou",
@@ -1022,7 +1022,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "./tok.txt+4k┃fhd┃auto"
     },
     {
       "key": "UpYun",
@@ -1033,7 +1033,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "./tok.txt+4k┃fhd┃auto"
     },
     {
       "key": "PanSearch",
@@ -1044,7 +1044,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "./tok.txt+4k┃fhd┃auto"
     },
     {
       "key": "七夜",
@@ -1055,7 +1055,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "./tok.txt+4k┃fhd┃auto"
     },
     {
       "key": "Gitcafe",
@@ -1066,7 +1066,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
@@ -1078,7 +1078,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
@@ -1090,7 +1090,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
@@ -1102,7 +1102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
@@ -1114,7 +1114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
@@ -1246,7 +1246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "./tok.txt",
       "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
     },
     {
