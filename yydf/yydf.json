@@ -200,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "酷酷",
@@ -317,7 +317,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影港.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -329,7 +329,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/4KHDR.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "drpy_js_磁力熊[磁]",
@@ -347,7 +347,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dyg.json",
-      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_6x",
