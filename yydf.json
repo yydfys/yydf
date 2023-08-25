@@ -245,8 +245,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/kunyu77_open.js",
-      "jar": "./lib/fan720.jar;md5;f4ec316a5fa752ef8082328b9b28e708"
+      "api": "./lib/kunyu77_open.js"
     },
     {
       "key": "厂长",
@@ -258,39 +257,9 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://cz01.fun/"
-    },
+    },   
     {
-      "key": "czzy_open",
-      "name": "♻️业余┃厂长open",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/czzy_open.js",
-      "jar": "./lib/fan720.jar;md5;f4ec316a5fa752ef8082328b9b28e708"
-    },
-    {
-      "key": "ikanbot_open",
-      "name": "♻️业余┃爱看open",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/ikanbot_open.js",
-      "jar": "./lib/fan720.jar;md5;f4ec316a5fa752ef8082328b9b28e708"
-    },
-    {
-      "key": "kkys_open",
-      "name": "♻️业余┃快看open",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/kkys_open.js",
-      "jar": "./lib/fan720.jar;md5;f4ec316a5fa752ef8082328b9b28e708"
-    },
-    {
-      "key": "探探",
+      "key": "♻️探探",
       "name": "♻️业余┃影探4K.App",
       "type": 3,
       "playerType": "1",
@@ -318,16 +287,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "影探2",
-      "name": "♻️业余┃猫猫4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/"
     },
     {
       "key": "小艺",
@@ -399,7 +358,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/6X.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_Mp4Mov",
@@ -409,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_New6v",
@@ -420,7 +379,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -431,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_KubaCL",
@@ -442,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_MeijuTT",
@@ -453,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -464,7 +423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -475,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -486,7 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -498,7 +457,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/4KHDR1278.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -509,7 +468,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dianyingcili.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -520,7 +479,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/BTtiantang.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -531,7 +490,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/jiyingwang.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "红牛资源",
@@ -919,7 +878,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/COKEMV影院.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "MGT",
@@ -1068,7 +1027,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_Zhaozy",
@@ -1080,7 +1039,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_AliPS",
@@ -1092,7 +1051,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_Yisou",
@@ -1104,7 +1063,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_Upyunso",
@@ -1116,7 +1075,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_土拨鼠搜索",
@@ -1128,7 +1087,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/土拨鼠搜索.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -1140,7 +1099,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/玩偶哥哥.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -1152,7 +1111,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/云盘资源分享.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_我的小站",
@@ -1164,7 +1123,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/我的小站.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -1176,7 +1135,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/阿里云盘网.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
@@ -1188,7 +1147,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/豆豆飞.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
@@ -1200,7 +1159,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/橘子盘搜.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_DOVX搜索",
@@ -1212,7 +1171,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/DOVX搜索.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQBiu_云盘分享",
@@ -1224,7 +1183,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/云盘分享.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_盘搜索",
@@ -1236,7 +1195,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/盘搜索.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "push_agent",
@@ -1248,7 +1207,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./tok.txt",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_YQKAPP",
@@ -1463,7 +1422,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/aikanyngyuan.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -1474,7 +1433,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/aikanyingshi.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_星辰影院",
@@ -1485,7 +1444,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/星辰影院.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
@@ -1496,7 +1455,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/乐鱼影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -1507,7 +1466,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/疯狗影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -1518,7 +1477,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/锐行加速影院.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_秋霞影视",
@@ -1529,7 +1488,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qiuxia.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XBPQ_JOJO",
@@ -1635,7 +1594,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/奇趣影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_极客影院",
@@ -1646,7 +1605,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/极客影院.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "Lezhu",
@@ -1657,7 +1616,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "./lib/乐猪.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -1668,7 +1627,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/农民影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
@@ -1679,7 +1638,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兄弟影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -1690,7 +1649,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影牛影院.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_电影盒子",
@@ -1702,7 +1661,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影盒子.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker素白白",
@@ -1713,7 +1672,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/素白白.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "H_中国蓝光网",
@@ -1723,7 +1682,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "./lib/中国蓝光网.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_一龙高清影视",
@@ -1734,7 +1693,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/一龙高清影视.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "蓝光影院",
@@ -1745,7 +1704,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/languang.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XPath_age",
@@ -2069,7 +2028,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/DJ呦呦音乐网.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "py_qie",
@@ -2145,7 +2104,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -2156,7 +2115,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝2.json",
-      "jar": "./lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar": "./lib/xyq825.jar"
     },
     {
       "key": "py_cctv_1",
