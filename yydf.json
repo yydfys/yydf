@@ -290,14 +290,15 @@
       "jar": "./lib/fan720.jar;md5;f4ec316a5fa752ef8082328b9b28e708"
     },
     {
-      "key": "影探",
-      "name": "♻️业余┃影探.APP",
+      "key": "探探",
+      "name": "♻️业余┃影探4K.App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yt22106.lfytyl.com/api.php/app/"
+      "changeable": 1,
+      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
     },
     {
       "key": "三八影视",
