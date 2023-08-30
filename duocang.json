@@ -1,47 +1,13 @@
 {"urls":[
- {
-      "name": "♻️ 业余打发在线单仓（跑路盘） ♻️",
-      "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"
-    },
-    {
-      "name": "♻️ 业余打发在线备用仓(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
-    },
-    {
-      "name": "♻️ 阿里集搜线路(跑路云盘) ♻️",
-      "url": "https://pan.shangui.cc/f/d6qPho/ali.json"
-    },
-    {
-      "name": "♻️ 阿里备用线路(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"
-    },
-    {
-      "name": "♻️ 香雅情原版专线(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"
-    },
-    {
-      "name": "♻️ 业余少儿频道(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/srpd.json"
-    },
-    {
-      "name": "♻️ 磁力资源大集合(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/cili/cili.json"
-    },
-    {
-      "name": "♻️ 傲娇的MAO JS源(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js.json"
-    },
-    {
-      "name": "♻️ 神秘的米哥哥们(原版) ♻️",
-      "url": "http://xhww.fun:63/小米/DEMO.json"
-    },
-    {
-      "name": "♻️ 永不失效的采集(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/caiji/caiji.json"
-    },
-    {
-      "name": "♻️ 需壳支持PY资源(github) ♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/py.json"
-    }
-]
+ {"name": "♻️ 业余打发在线单仓（跑路盘） ♻️","url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
+ {"name": "♻️ 业余打发在线备用仓(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"},
+ {"name": "♻️ 阿里集搜线路(跑路云盘) ♻️","url": "https://pan.shangui.cc/f/d6qPho/ali.json"},
+ {"name": "♻️ 阿里备用线路(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"},
+ {"name": "♻️ 香雅情原版专线(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"},
+ {"name": "♻️ 业余少儿频道(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/srpd.json"},
+ {"name": "♻️ 磁力资源大集合(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/cili/cili.json"},
+ {"name": "♻️ 傲娇的MAO JS源(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js.json"},
+ {"name": "♻️ 神秘的米哥哥们(原版) ♻️","url": "http://xhww.fun:63/小米/DEMO.json"},
+ {"name": "♻️ 永不失效的采集(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/caiji/caiji.json"},
+ {"name": "♻️ 需壳支持PY资源(github) ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/py.json"}]
 }
