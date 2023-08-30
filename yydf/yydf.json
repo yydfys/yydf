@@ -37,7 +37,7 @@
     },
     {
       "key": "荐片",
-      "name": "♻️业余┃荐片(cli)",
+      "name": "♻️荐片(cli)",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "csp_YGP",
-      "name": "♻️业余┃新片.速递",
+      "name": "♻️新片.速递",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -55,7 +55,7 @@
     },
     {
       "key": "drpy_js_荐片",
-      "name": "♻️业余┃荐片.影视",
+      "name": "♻️荐片.影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/荐片.js",
@@ -63,7 +63,7 @@
     },
     {
       "key": "lf_ikanbot",
-      "name": "♻️业余┃爱看机器人API",
+      "name": "♻️爱看机器人API",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -72,18 +72,8 @@
       "api": "./lib/apiv173lf_ikanbot3_min.js"
     },
     {
-      "key": "csp_woggcli",
-      "name": "♻️业余|俊哥玩偶.CLi",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1，
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
       "key": "csp_WoGG",
-      "name": "♻️业余┃玩偶.饭",
+      "name": "♻️玩偶.饭",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -93,7 +83,7 @@
     },
     {
       "key": "剧白白新",
-      "name": "♻️业余 | 剧白白.BPQ",
+      "name": "♻️剧白白.BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -112,7 +102,7 @@
     },
     {
       "key": "我爱跟剧",
-      "name": "♻️业余|我爱跟剧.BPQ",
+      "name": "♻️我爱跟剧.BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -132,7 +122,7 @@
     },
     {
       "key": "嗨呀电影",
-      "name": "♻️业余┃嗨呀电影",
+      "name": "♻️嗨呀电影",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -142,7 +132,7 @@
     },
     {
       "key": "萌猫",
-      "name": "♻️业余┃萌猫影视",
+      "name": "♻️萌猫影视",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
@@ -175,7 +165,7 @@
     },
     {
       "key": "dr_低端",
-      "name": "♻️业余┃低端(js)",
+      "name": "♻️低端(js)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 2,
@@ -186,7 +176,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "♻️业余┃低端直A",
+      "name": "♻️低端直A",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -195,7 +185,7 @@
     },
     {
       "key": "csp_Ddys",
-      "name": "♻️业余┃低端直B",
+      "name": "♻️低端直B",
       "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
@@ -205,7 +195,7 @@
     },
     {
       "key": "酷酷",
-      "name": "♻️业余┃酷酷.app",
+      "name": "♻️酷酷.app",
       "type": 3,
       "api": "csp_Kuying",
       "searchable": 1,
@@ -214,7 +204,7 @@
     },
     {
       "key": "csp_Lib1",
-      "name": "♻️业余┃利播直连",
+      "name": "♻️利播直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -224,7 +214,7 @@
     },
     {
       "key": "csp_XBPQ_饭团",
-      "name": "♻️业余┃饭团HD",
+      "name": "♻️饭团HD",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -234,14 +224,14 @@
     },
     {
       "key": "drpy_js_饭团影视",
-      "name": "♻️业余┃饭团js",
+      "name": "♻️饭团js",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/饭团影视.js"
     },
     {
       "key": "kunyu77_open",
-      "name": "♻️业余┃酷云open",
+      "name": "♻️酷云open",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -250,7 +240,7 @@
     },
     {
       "key": "厂长",
-      "name": "♻️业余┃厂长",
+      "name": "♻️厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -261,7 +251,7 @@
     },   
     {
       "key": "♻️探探",
-      "name": "♻️业余┃影探4K.App",
+      "name": "♻️影探4K.App",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
@@ -272,7 +262,7 @@
     },
     {
       "key": "三八影视",
-      "name": "♻️业余|三八4K.T4",
+      "name": "♻️三八4K.T4",
       "type": 4,
       "api": "https://public.t4tv.hz.cz/888",
       "searchable": 1,
@@ -281,7 +271,7 @@
     },
     {
       "key": "探探",
-      "name": "♻️业余┃影探4K.饭",
+      "name": "♻️影探4K.饭",
       "type": 3,
       "playerType": "1",
       "api": "csp_YT",
@@ -291,7 +281,7 @@
     },
     {
       "key": "小艺",
-      "name": "♻️业余┃小艺4K",
+      "name": "♻️小艺4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -301,7 +291,7 @@
     },
     {
       "key": "csp_xpath_yinfans",
-      "name": "♻️业余┃🧲范范4k",
+      "name": "♻️范范4k🧲",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -311,7 +301,7 @@
     },
     {
       "key": "csp_XYQHikerdyx",
-      "name": "♻️业余┃🧲磁力4k",
+      "name": "♻️磁力4k🧲",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -322,7 +312,7 @@
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
-      "name": "♻️业余┃🧲盘磁力4K",
+      "name": "♻️盘磁力4K🧲",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -334,14 +324,14 @@
     },
     {
       "key": "drpy_js_磁力熊[磁]",
-      "name": "♻️业余┃🧲磁力熊[js]",
+      "name": "♻️磁力熊🧲",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/cilixiong.js"
     },
     {
       "key": "csp_XYQHiker_‍dyx",
-      "name": "♻️业余┃🧲宇宙磁力4k",
+      "name": "♻️宇宙磁力4k🧲",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -352,7 +342,7 @@
     },
     {
       "key": "csp_XYQHiker_6x",
-      "name": "♻️业余┃🧲6X磁力搜",
+      "name": "♻️6X磁力搜🧲",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -363,7 +353,7 @@
     },
     {
       "key": "csp_Mp4Mov",
-      "name": "♻️业余┃🧲Mp4电影",
+      "name": "♻️Mp4电影🧲",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -373,7 +363,7 @@
     },
     {
       "key": "csp_New6v",
-      "name": "♻️业余┃🧲新6V",
+      "name": "♻️新6V🧲",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -384,7 +374,7 @@
     },
     {
       "key": "csp_SeedHub",
-      "name": "♻️业余┃🧲SeedHub",
+      "name": "♻️SeedHub🧲",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -395,7 +385,7 @@
     },
     {
       "key": "csp_KubaCL",
-      "name": "♻️业余┃🧲酷吧电影",
+      "name": "♻️酷吧电影🧲",
       "type": 3,
       "api": "csp_KubaCL",
       "playerType": 1,
@@ -406,7 +396,7 @@
     },
     {
       "key": "csp_MeijuTT",
-      "name": "♻️业余┃🧲美剧天堂",
+      "name": "♻️美剧天堂🧲",
       "type": 3,
       "api": "csp_MeijuTT",
       "playerType": 1,
@@ -417,7 +407,7 @@
     },
     {
       "key": "csp_MeijuMi",
-      "name": "♻️业余┃🧲美剧迷",
+      "name": "♻️美剧迷🧲",
       "type": 3,
       "api": "csp_MeijuMi",
       "playerType": 1,
@@ -428,7 +418,7 @@
     },
     {
       "key": "csp_BLSGod",
-      "name": "♻️业余┃🧲80S影视",
+      "name": "♻️80S影视🧲",
       "type": 3,
       "api": "csp_BLSGod",
       "playerType": 1,
@@ -439,7 +429,7 @@
     },
     {
       "key": "csp_Xunlei8",
-      "name": "♻️业余┃🧲迅雷吧",
+      "name": "♻️迅雷吧🧲",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -450,7 +440,7 @@
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
-      "name": "♻️业余┃🧲📀4KHDR(盘/磁)",
+      "name": "♻️4KHDR🧲",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -462,7 +452,7 @@
     },
     {
       "key": "csp_XYQHiker_电影港",
-      "name": "♻️业余┃🧲电影港",
+      "name": "♻️电影港🧲",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -473,7 +463,7 @@
     },
     {
       "key": "csp_XYQHiker_BT天堂",
-      "name": "♻️业余┃🧲✈️BT天堂",
+      "name": "♻️BT天堂🧲✈️",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -484,7 +474,7 @@
     },
     {
       "key": "csp_XYQHiker_极影网",
-      "name": "♻️业余┃🧲极影网",
+      "name": "♻️极影网🧲",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -495,7 +485,7 @@
     },
     {
       "key": "红牛资源",
-      "name": "♻️业余┃红牛.云播",
+      "name": "♻️红牛.云播",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -510,7 +500,7 @@
     },
     {
       "key": "快车资源",
-      "name": "♻️业余┃快车.云播",
+      "name": "♻️快车.云播",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -524,7 +514,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "♻️业余┃卧龙.云播",
+      "name": "♻️卧龙.云播",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -538,7 +528,7 @@
     },
     {
       "key": "光速资源",
-      "name": "♻️业余┃光速.云播",
+      "name": "♻️光速.云播",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -552,7 +542,7 @@
     },
     {
       "key": "闪电资源",
-      "name": "♻️业余┃闪电.云播",
+      "name": "♻️闪电.云播",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -560,7 +550,7 @@
     },
     {
       "key": "csp_xml_享看",
-      "name": "♻️业余┃享看.云播",
+      "name": "♻️享看.云播",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -569,7 +559,7 @@
     },
     {
       "key": "天空资源",
-      "name": "♻️业余┃天空.云播",
+      "name": "♻️天空.云播",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -584,7 +574,7 @@
     },
     {
       "key": "FF9资源",
-      "name": "♻️业余┃FF9.云播",
+      "name": "♻️FF9.云播",
       "type": 1,
       "api": "https://www.ff9.top/api.php/provide/vod/",
       "searchable": 1,
@@ -598,7 +588,7 @@
     },
     {
       "key": "新浪资源",
-      "name": "♻️业余┃新浪.云播",
+      "name": "♻️新浪.云播",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -613,7 +603,7 @@
     },
     {
       "key": "百度资源",
-      "name": "♻️业余┃百度.云播",
+      "name": "♻️百度.云播",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -627,7 +617,7 @@
     },
     {
       "key": "星辰",
-      "name": "♻️业余┃星辰",
+      "name": "♻️星辰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -637,7 +627,7 @@
     },
     {
       "key": "蘑菇",
-      "name": "♻️业余┃蘑菇",
+      "name": "♻️蘑菇",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -647,7 +637,7 @@
     },
     {
       "key": "蘑菇2",
-      "name": "️♻️业余┃蘑菇.APP",
+      "name": "️♻️蘑菇.APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -657,7 +647,7 @@
     },
     {
       "key": "泰泰",
-      "name": "♻️业余┃泰泰",
+      "name": "♻️泰泰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -667,7 +657,7 @@
     },
     {
       "key": "酷影2",
-      "name": "♻️业余┃泰泰2",
+      "name": "♻️泰泰2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -677,7 +667,7 @@
     },
     {
       "key": "csp_Lib",
-      "name": "♻️业余┃酷影",
+      "name": "♻️酷影",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -688,14 +678,14 @@
     },
     {
       "key": "臭蛋",
-      "name": "♻️业余┃蛋蛋",
+      "name": "♻️蛋蛋",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/蛋蛋.json"
     },
     {
       "key": "落叶",
-      "name": "♻️业余┃落落",
+      "name": "♻️落落",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -705,7 +695,7 @@
     },
     {
       "key": "莱米",
-      "name": "♻️业余┃莱米",
+      "name": "♻️莱米",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -713,7 +703,7 @@
     },
     {
       "key": "夜幕",
-      "name": "️♻️业余┃夜夜",
+      "name": "️♻️夜夜",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -747,7 +737,7 @@
     },
     {
       "key": "滋滋",
-      "name": "♻️业余┃子子",
+      "name": "♻️子子",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -755,7 +745,7 @@
     },
     {
       "key": "黄黄",
-      "name": "♻️业余┃黄黄",
+      "name": "♻️黄黄",
       "api": "csp_AppYsV2",
       "type": 3,
       "filterable": 1,
@@ -765,14 +755,14 @@
     },
     {
       "key": "团团",
-      "name": "♻️业余┃团团",
+      "name": "♻️团团",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/饭团.json"
     },
     {
       "key": "兔兔",
-      "name": "♻️业余┃兔兔",
+      "name": "♻️兔兔",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -782,14 +772,14 @@
     },
     {
       "key": "虎虎",
-      "name": "♻️业余┃虎虎",
+      "name": "♻️虎虎",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/虎虎.json"
     },
     {
       "key": "csp_AppMr",
-      "name": "♻️业余┃明明",
+      "name": "♻️明明",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -798,7 +788,7 @@
     },
     {
       "key": "js 77",
-      "name": "♻️业余｜酷云77",
+      "name": "♻️｜酷云77",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/酷云77.js",
@@ -808,7 +798,7 @@
     },
     {
       "key": "奇优",
-      "name": "♻️业余┃奇奇",
+      "name": "♻️奇奇",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -816,7 +806,7 @@
     },
     {
       "key": "渐渐",
-      "name": "♻️业余┃简简.APP",
+      "name": "♻️简简.APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -826,7 +816,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "♻️业余┃十十",
+      "name": "♻️十十",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -835,7 +825,7 @@
     },
     {
       "key": "csp_Dy1010-2",
-      "name": "♻️业余┃双十.直连",
+      "name": "♻️双十.直连",
       "type": 3,
       "api": "csp_Dy1010",
       "playerType": "1",
@@ -843,7 +833,7 @@
     },
     {
       "key": "滴答",
-      "name": "♻️业余┃滴答",
+      "name": "♻️滴答",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -851,7 +841,7 @@
     },
     {
       "key": "瑞丰",
-      "name": "♻️业余┃辣辣",
+      "name": "♻️辣辣",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -861,7 +851,7 @@
     },
     {
       "key": "csp_aidi",
-      "name": "♻️业余┃迪迪",
+      "name": "♻️迪迪",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -871,7 +861,7 @@
     },
     {
       "key": "csp_XYQHiker_COKEMV影院",
-      "name": "♻️业余┃乐乐",
+      "name": "♻️乐乐",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
@@ -883,7 +873,7 @@
     },
     {
       "key": "MGT",
-      "name": "♻️业余┃芒芒",
+      "name": "♻️芒芒",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -892,7 +882,7 @@
     },
     {
       "key": "Qtv",
-      "name": "♻️业余┃鹅鹅",
+      "name": "♻️鹅鹅",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -901,7 +891,7 @@
     },
     {
       "key": "姐姐",
-      "name": "♻️业余┃玩偶姐姐",
+      "name": "♻️玩偶姐姐",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -911,7 +901,7 @@
     },
     {
       "key": "小姨",
-      "name": "♻️业余┃玩偶姨妹",
+      "name": "♻️玩偶姨妹",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -923,7 +913,7 @@
     },
     {
       "key": "骚火",
-      "name": "♻️业余┃骚火(js)",
+      "name": "♻️骚火(js)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -933,7 +923,7 @@
     },
     {
       "key": "saohuo",
-      "name": "♻️业余┃骚火",
+      "name": "♻️骚火",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -1212,7 +1202,7 @@
     },
     {
       "key": "csp_YQKAPP",
-      "name": "♻️业余┃一起",
+      "name": "♻️一起",
       "type": 3,
       "api": "csp_YQKAPP",
       "playerType": 2,
@@ -1223,7 +1213,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "♻️业余┃比特",
+      "name": "♻️比特",
       "api": "csp_Bttwoo",
       "type": 3,
       "filterable": 1,
@@ -1232,7 +1222,7 @@
     },
     {
       "key": "速搜",
-      "name": "♻️业余┃速搜",
+      "name": "♻️速搜",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -1240,7 +1230,7 @@
     },
     {
       "key": "热播库",
-      "name": "♻️业余┃热播",
+      "name": "♻️热播",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -1248,7 +1238,7 @@
     },
     {
       "key": "在线之家",
-      "name": "♻️业余┃在线",
+      "name": "♻️在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -1258,7 +1248,7 @@
     },
     {
       "key": "达达龟",
-      "name": "♻️业余┃达达龟",
+      "name": "♻️达达龟",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -1268,7 +1258,7 @@
     },
     {
       "key": "石榴影视",
-      "name": "♻️业余┃石榴",
+      "name": "♻️石榴",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1278,7 +1268,7 @@
     },
     {
       "key": "drpy_js_宅腐影视",
-      "name": "♻️业余┃宅腐",
+      "name": "♻️宅腐",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/宅腐影视.js",
@@ -1288,7 +1278,7 @@
     },
     {
       "key": "drpy_js_优酷",
-      "name": "♻️业余┃油库",
+      "name": "♻️油库",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -1298,7 +1288,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "♻️业余┃视觉",
+      "name": "♻️视觉",
       "type": "3",
       "api": "csp_Xinsj",
       "searchable": "1",
@@ -1308,7 +1298,7 @@
     },
     {
       "key": "HDmoli",
-      "name": "♻️业余┃魔力高清",
+      "name": "♻️魔力高清",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1318,7 +1308,7 @@
     },
     {
       "key": "csp_Lgyy",
-      "name": "♻️业余┃蓝光直连",
+      "name": "♻️蓝光直连",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -1328,7 +1318,7 @@
     },
     {
       "key": "csp_AppYsV2_如意4K",
-      "name": "♻️业余┃如意4k",
+      "name": "♻️如意4k",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1339,7 +1329,7 @@
     },
     {
       "key": "VIP影视",
-      "name": "♻️业余┃VIP",
+      "name": "♻️VIP",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -1349,7 +1339,7 @@
     },
     {
       "key": "利奥影院",
-      "name": "♻️业余┃利奥",
+      "name": "♻️利奥",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -1359,7 +1349,7 @@
     },
     {
       "key": "js_B站精简",
-      "name": "♻️业余┃哔哩",
+      "name": "♻️哔哩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -1369,7 +1359,7 @@
     },
     {
       "key": "555影视",
-      "name": "♻️业余|555影视",
+      "name": "♻️|555影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -1379,35 +1369,35 @@
     },
     {
       "key": "drpy_js_优酷1",
-      "name": "♻️业余┃优酷(官源)",
+      "name": "♻️优酷(官源)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
     },
     {
       "key": "搜狗2",
-      "name": "♻️业余┃搜狗(官源)",
+      "name": "♻️搜狗(官源)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/sougou.js"
     },
     {
       "key": "腾讯2",
-      "name": "♻️业余┃腾讯(官源)",
+      "name": "♻️腾讯(官源)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/tengxun.js"
     },
     {
       "key": "爱奇异",
-      "name": "♻️业余┃爱奇艺(官源)",
+      "name": "♻️爱奇艺(官源)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/iqy.js"
     },
     {
       "key": "Kuaikan",
-      "name": "♻️业余┃快看",
+      "name": "♻️快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1416,7 +1406,7 @@
     },
     {
       "key": "csp_XYQHiker_F7好看剧",
-      "name": "♻️业余┃好看",
+      "name": "♻️好看",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1427,7 +1417,7 @@
     },
     {
       "key": "csp_XYQHiker_爱看影视",
-      "name": "♻️业余┃爱看",
+      "name": "♻️爱看",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1438,7 +1428,7 @@
     },
     {
       "key": "csp_XYQHiker_星辰影院",
-      "name": "♻️业余┃星辰",
+      "name": "♻️星辰",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1449,7 +1439,7 @@
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
-      "name": "♻️业余┃乐鱼",
+      "name": "♻️乐鱼",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1460,7 +1450,7 @@
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
-      "name": "♻️业余┃疯狗",
+      "name": "♻️疯狗",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1471,7 +1461,7 @@
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
-      "name": "♻️业余┃锐行",
+      "name": "♻️锐行",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1482,7 +1472,7 @@
     },
     {
       "key": "csp_XYQHiker_秋霞影视",
-      "name": "♻️业余┃秋霞",
+      "name": "♻️秋霞",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1493,7 +1483,7 @@
     },
     {
       "key": "csp_XBPQ_JOJO",
-      "name": "♻️业余┃JOJO",
+      "name": "♻️JOJO",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1503,7 +1493,7 @@
     },
     {
       "key": "量子",
-      "name": "♻️业余┃量子",
+      "name": "♻️量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -1548,7 +1538,7 @@
     },
     {
       "key": "非凡",
-      "name": "♻️业余┃非凡",
+      "name": "♻️非凡",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -1588,7 +1578,7 @@
     },
     {
       "key": "csp_XYQHiker_奇趣影视",
-      "name": "♻️业余┃奇趣",
+      "name": "♻️奇趣",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1599,7 +1589,7 @@
     },
     {
       "key": "csp_XYQHiker_极客影院",
-      "name": "♻️业余┃极客",
+      "name": "♻️极客",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1610,7 +1600,7 @@
     },
     {
       "key": "Lezhu",
-      "name": "♻️业余┃乐猪",
+      "name": "♻️乐猪",
       "api": "csp_XYQHiker",
       "type": 3,
       "filterable": 1,
@@ -1621,7 +1611,7 @@
     },
     {
       "key": "csp_XYQHiker_农民影视",
-      "name": "♻️业余┃农民",
+      "name": "♻️农民",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1632,7 +1622,7 @@
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
-      "name": "♻️业余┃兄弟",
+      "name": "♻️兄弟",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1643,7 +1633,7 @@
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
-      "name": "♻️业余┃电影牛",
+      "name": "♻️电影牛",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1654,7 +1644,7 @@
     },
     {
       "key": "csp_XYQHiker_电影盒子",
-      "name": "♻️业余┃电影盒子",
+      "name": "♻️电影盒子",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
@@ -1666,7 +1656,7 @@
     },
     {
       "key": "csp_XYQHiker素白白",
-      "name": "♻️业余┃素白白",
+      "name": "♻️素白白",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1677,7 +1667,7 @@
     },
     {
       "key": "H_中国蓝光网",
-      "name": "♻️业余┃中国蓝光",
+      "name": "♻️中国蓝光",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -1687,7 +1677,7 @@
     },
     {
       "key": "csp_XYQHiker_一龙高清影视",
-      "name": "♻️业余┃一龙高清",
+      "name": "♻️一龙高清",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1698,7 +1688,7 @@
     },
     {
       "key": "蓝光影院",
-      "name": "♻️业余┃蓝光影院",
+      "name": "♻️蓝光影院",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1709,7 +1699,7 @@
     },
     {
       "key": "csp_XPath_age",
-      "name": "♻️业余┃AGE动漫",
+      "name": "♻️AGE动漫",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -1719,21 +1709,21 @@
     },
     {
       "key": "drpy_js_动漫岛",
-      "name": "♻️业余┃动漫岛",
+      "name": "♻️动漫岛",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
-      "name": "♻️业余┃路漫漫",
+      "name": "♻️路漫漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
     },
     {
       "key": "csp_Dm84",
-      "name": "♻️业余┃动漫巴士1",
+      "name": "♻️动漫巴士1",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -1742,7 +1732,7 @@
     },
     {
       "key": "csp_xpath___动漫巴士",
-      "name": "♻️业余┃动漫巴士2",
+      "name": "♻️动漫巴士2",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -1752,7 +1742,7 @@
     },
     {
       "key": "csp_Dm84_3",
-      "name": "♻️业余┃动漫巴士3",
+      "name": "♻️动漫巴士3",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1762,7 +1752,7 @@
     },
     {
       "key": "csp_Ysj",
-      "name": "♻️业余┃异界动漫",
+      "name": "♻️异界动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -1771,7 +1761,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "♻️业余┃日漫",
+      "name": "♻️日漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -1780,7 +1770,7 @@
     },
     {
       "key": "csp_Ying",
-      "name": "♻️业余┃樱花动漫",
+      "name": "♻️樱花动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -1789,35 +1779,35 @@
     },
     {
       "key": "nt动漫",
-      "name": "♻️业余┃拿铁动漫",
+      "name": "♻️拿铁动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ntdm.js"
     },
     {
       "key": "妮可",
-      "name": "♻️业余┃妮可动漫",
+      "name": "♻️妮可动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/妮可动漫.js"
     },
     {
       "key": "anfuns",
-      "name": "♻️业余┃ANF动漫",
+      "name": "♻️ANF动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/anfuns.js"
     },
     {
       "key": "怡萱动漫",
-      "name": "♻️业余┃怡萱动漫",
+      "name": "♻️怡萱动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/怡萱.js"
     },
     {
       "key": "去看吧",
-      "name": "♻️业余┃去看动漫",
+      "name": "♻️去看动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1827,7 +1817,7 @@
     },
     {
       "key": "维奇",
-      "name": "♻️业余┃维奇动漫",
+      "name": "♻️维奇动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1837,7 +1827,7 @@
     },
     {
       "key": "吾爱英语",
-      "name": "♻️业余┃吾爱外语",
+      "name": "♻️吾爱外语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1847,7 +1837,7 @@
     },
     {
       "key": "软件",
-      "name": "♻️业余┃软件教程",
+      "name": "♻️软件教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1857,7 +1847,7 @@
     },
     {
       "key": "Excel教程",
-      "name": "♻️业余┃吾爱Excel",
+      "name": "♻️吾爱Excel",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1867,7 +1857,7 @@
     },
     {
       "key": "吾爱PS",
-      "name": "♻️业余┃吾爱PS",
+      "name": "♻️吾爱PS",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1877,7 +1867,7 @@
     },
     {
       "key": "吾爱乐器",
-      "name": "♻️业余┃我爱乐器",
+      "name": "♻️我爱乐器",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1887,7 +1877,7 @@
     },
     {
       "key": "美食",
-      "name": "♻️业余┃美食合集",
+      "name": "♻️美食合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1897,7 +1887,7 @@
     },
     {
       "key": "哔哩",
-      "name": "♻️业余┃吾爱哔哩",
+      "name": "♻️吾爱哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -1907,7 +1897,7 @@
     },
     {
       "key": "吾爱舞蹈",
-      "name": "♻️业余┃吾爱舞蹈",
+      "name": "♻️吾爱舞蹈",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1917,7 +1907,7 @@
     },
     {
       "key": "吾爱户外",
-      "name": "♻️业余┃吾爱户外",
+      "name": "♻️吾爱户外",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1927,7 +1917,7 @@
     },
     {
       "key": "吾爱戏曲",
-      "name": "♻️业余┃吾爱戏曲",
+      "name": "♻️吾爱戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1937,7 +1927,7 @@
     },
     {
       "key": "吾爱搭配",
-      "name": "♻️业余┃吾爱搭配",
+      "name": "♻️吾爱搭配",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1947,7 +1937,7 @@
     },
     {
       "key": "吾爱解说",
-      "name": "♻️业余┃吾爱解说",
+      "name": "♻️吾爱解说",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1957,7 +1947,7 @@
     },
     {
       "key": "吾爱演唱会",
-      "name": "♻️业余┃吾爱演唱会",
+      "name": "♻️吾爱演唱会",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1967,7 +1957,7 @@
     },
     {
       "key": "吾爱经典",
-      "name": "♻️业余┃吾爱音乐",
+      "name": "♻️吾爱音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1977,7 +1967,7 @@
     },
     {
       "key": "吾爱球星",
-      "name": "♻️业余┃吾爱球星",
+      "name": "♻️吾爱球星",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1987,42 +1977,42 @@
     },
     {
       "key": "drpy_js_JustLive",
-      "name": "♻️业余┃JustLive",
+      "name": "♻️JustLive",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/JustLive.js"
     },
     {
       "key": "drpy_js_虎牙直播",
-      "name": "♻️业余┃虎牙直播",
+      "name": "♻️虎牙直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/虎牙直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
-      "name": "♻️业余┃斗鱼直播",
+      "name": "♻️斗鱼直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/斗鱼直播.js"
     },
     {
       "key": "drpy_js_博看听书",
-      "name": "♻️业余┃博看听书",
+      "name": "♻️博看听书",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/博看听书.js"
     },
     {
       "key": "drpy_js_喜马拉雅",
-      "name": "♻️业余┃喜马拉雅",
+      "name": "♻️喜马拉雅",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/喜马拉雅.js"
     },
     {
       "key": "csp_XYQHiker_DJ呦呦音乐网",
-      "name": "♻️业余┃DJ呦呦音乐",
+      "name": "♻️DJ呦呦音乐",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -2033,7 +2023,7 @@
     },
     {
       "key": "py_qie",
-      "name": "♻️业余┃企鹅体育",
+      "name": "♻️企鹅体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
@@ -2043,7 +2033,7 @@
     },
     {
       "key": "csp_XPath_鹅直播",
-      "name": "♻️业余┃企鹅直播",
+      "name": "♻️企鹅直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -2053,7 +2043,7 @@
     },
     {
       "key": "88js",
-      "name": "♻️业余┃88看球",
+      "name": "♻️88看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -2070,35 +2060,35 @@
     },
     {
       "key": "腾讯1",
-      "name": "♻️业余┃少儿频道1",
+      "name": "♻️少儿频道1",
       "type": 3,
       "api": "./lib/apiv5258drpy2.min.js",
       "ext": "./lib/腾讯.js"
     },
     {
       "key": "芒果1",
-      "name": "♻️业余┃少儿频道2",
+      "name": "♻️少儿频道2",
       "type": 3,
       "api": "./lib/apiv5258drpy2.min.js",
       "ext": "./lib/忙果.js"
     },
     {
       "key": "奇艺1",
-      "name": "♻️业余┃少儿频道3",
+      "name": "♻️少儿频道3",
       "type": 3,
       "api": "./lib/apiv5258drpy2.min.js",
       "ext": "./lib/异兽.js"
     },
     {
       "key": "优酷1",
-      "name": "♻️业余┃少儿频道4",
+      "name": "♻️少儿频道4",
       "type": 3,
       "api": "./lib/apiv5258drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
-      "name": "♻️业余┃兔小贝1",
+      "name": "♻️兔小贝1",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -2109,7 +2099,7 @@
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
-      "name": "♻️业余┃兔小贝2",
+      "name": "♻️兔小贝2",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -2120,7 +2110,7 @@
     },
     {
       "key": "py_cctv_1",
-      "name": "♻️业余┃央视-少儿",
+      "name": "♻️央视-少儿",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -2130,7 +2120,7 @@
     },
     {
       "key": "ysjd",
-      "name": "♻️业余┃央视┃经典",
+      "name": "♻️央视┃经典",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2140,14 +2130,14 @@
     },
     {
       "key": "童趣",
-      "name": "♻️业余┃童趣",
+      "name": "♻️童趣",
       "type": 3,
       "api": "./lib/apiv5258drpy2.min.js",
       "ext": "./lib/童趣.js"
     },
     {
       "key": "幼儿启蒙",
-      "name": "♻️业余┃幼儿启蒙",
+      "name": "♻️幼儿启蒙",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2157,7 +2147,7 @@
     },
     {
       "key": "益智",
-      "name": "♻️业余┃益智.动画",
+      "name": "♻️益智.动画",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2167,7 +2157,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "♻️业余┃少儿教育",
+      "name": "♻️少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2177,7 +2167,7 @@
     },
     {
       "key": "幼儿乐园",
-      "name": "♻️业余┃幼儿乐园",
+      "name": "♻️幼儿乐园",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2187,7 +2177,7 @@
     },
     {
       "key": "儿童",
-      "name": "♻️业余┃儿童乐园",
+      "name": "♻️儿童乐园",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2197,7 +2187,7 @@
     },
     {
       "key": "学习",
-      "name": "♻️业余┃学习园地",
+      "name": "♻️学习园地",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2207,7 +2197,7 @@
     },
     {
       "key": "幼小衔接",
-      "name": "♻️业余┃幼小衔接",
+      "name": "♻️幼小衔接",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2217,7 +2207,7 @@
     },
     {
       "key": "小灯塔",
-      "name": "♻️业余┃小灯塔",
+      "name": "♻️小灯塔",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2227,7 +2217,7 @@
     },
     {
       "key": "小灯塔科学",
-      "name": "♻️业余┃小灯塔科学",
+      "name": "♻️小灯塔科学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2237,7 +2227,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "♻️业余┃小灯塔地理",
+      "name": "♻️小灯塔地理",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2247,7 +2237,7 @@
     },
     {
       "key": "小灯塔国学",
-      "name": "♻️业余┃小灯塔国学",
+      "name": "♻️小灯塔国学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2257,7 +2247,7 @@
     },
     {
       "key": "小灯塔人文",
-      "name": "♻️业余┃小灯塔人文",
+      "name": "♻️小灯塔人文",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2267,7 +2257,7 @@
     },
     {
       "key": "儿童拼音",
-      "name": "♻️业余┃儿童拼音",
+      "name": "♻️儿童拼音",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2277,7 +2267,7 @@
     },
     {
       "key": "儿童识字",
-      "name": "♻️业余┃儿童识字",
+      "name": "♻️儿童识字",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2287,7 +2277,7 @@
     },
     {
       "key": "儿童英语",
-      "name": "♻️业余┃儿童英语",
+      "name": "♻️儿童英语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2297,7 +2287,7 @@
     },
     {
       "key": "儿童硬笔",
-      "name": "♻️业余┃儿童硬笔",
+      "name": "♻️儿童硬笔",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2307,7 +2297,7 @@
     },
     {
       "key": "儿童思维",
-      "name": "♻️业余┃儿童思维",
+      "name": "♻️儿童思维",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2317,7 +2307,7 @@
     },
     {
       "key": "儿童口才",
-      "name": "♻️业余┃儿童口才",
+      "name": "♻️儿童口才",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2327,7 +2317,7 @@
     },
     {
       "key": "儿童编程",
-      "name": "♻️业余┃儿童编程",
+      "name": "♻️儿童编程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2337,7 +2327,7 @@
     },
     {
       "key": "儿童武术",
-      "name": "♻️业余┃儿童武术",
+      "name": "♻️儿童武术",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2347,7 +2337,7 @@
     },
     {
       "key": "兴趣培养",
-      "name": "♻️业余┃兴趣培养",
+      "name": "♻️兴趣培养",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2357,7 +2347,7 @@
     },
     {
       "key": "小学",
-      "name": "♻️业余┃小学教育",
+      "name": "♻️小学教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2367,7 +2357,7 @@
     },
     {
       "key": "初中",
-      "name": "♻️业余┃初中教育",
+      "name": "♻️初中教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2377,7 +2367,7 @@
     },
     {
       "key": "高中",
-      "name": "♻️业余┃高中教育",
+      "name": "♻️高中教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2387,7 +2377,7 @@
     },
     {
       "key": "py_youer",
-      "name": "♻️业余┃幼儿┃教育",
+      "name": "♻️幼儿┃教育",
       "type": 3,
       "api": "py_youer",
       "searchable": 1,
@@ -2397,7 +2387,7 @@
     },
     {
       "key": "py_xiaoxue",
-      "name": "♻️业余┃小学┃教育",
+      "name": "♻️小学┃教育",
       "type": 3,
       "api": "py_xiaoxue",
       "searchable": 1,
@@ -2407,7 +2397,7 @@
     },
     {
       "key": "py_czxx",
-      "name": "♻️业余┃初中┃教育",
+      "name": "♻️初中┃教育",
       "type": 3,
       "api": "py_czxx",
       "searchable": 1,
@@ -2417,7 +2407,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "♻️业余┃动物世界",
+      "name": "♻️动物世界",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2427,7 +2417,7 @@
     },
     {
       "key": " py_中国文化",
-      "name": "♻️业余┃中国文化",
+      "name": "♻️中国文化",
       "type": 3,
       "api": "py_中国文化",
       "searchable": 1,
