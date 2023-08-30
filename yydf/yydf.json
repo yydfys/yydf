@@ -30,7 +30,7 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:业余打发。为保证你能体验接口最新源，请使用最新版壳子！",
+      "name": "♻️豆瓣┃公众号:业余打发。请使用最新版壳子体验新源！",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
@@ -75,10 +75,11 @@
       "key": "csp_woggcli",
       "name": "♻️业余|俊哥玩偶.CLi",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=内置token",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1，
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "csp_WoGG",
