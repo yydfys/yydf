@@ -944,7 +944,7 @@
     },
     {
       "key": "YiSo",
-      "name": "😹业余┃易搜┃搜索",
+      "name": "😹易搜┃搜索♻️",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -955,7 +955,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐺业余┃找资源┃搜索",
+      "name": "🐺找资源┃搜索♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -966,7 +966,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊业余┃盘搜┃搜索",
+      "name": "🦊盘搜┃搜索♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -977,7 +977,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻业余┃Up搜┃搜索",
+      "name": "😻Up搜┃搜索♻️",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -988,7 +988,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀业余┃盘Se┃搜索",
+      "name": "🙀盘Se┃搜索♻️",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -999,7 +999,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾业余┃七夜┃搜索",
+      "name": "😾七夜┃搜索♻️",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -1010,7 +1010,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "📀业余┃小纸条(搜索)",
+      "name": "📀小纸条(搜索)♻️",
       "type": 3,
       "api": "csp_Gitcafe",
       "playerType": 1,
@@ -1022,7 +1022,7 @@
     },
     {
       "key": "csp_Zhaozy",
-      "name": "📀业余┃找资源(搜索)",
+      "name": "📀找资源(搜索)♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "playerType": 1,
@@ -1034,7 +1034,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "📀业余┃喵狸盘搜(搜索)",
+      "name": "📀喵狸盘搜(搜索)♻️",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -1046,7 +1046,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "📀业余┃易搜(搜索)",
+      "name": "📀易搜(搜索)♻️",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
@@ -1058,7 +1058,7 @@
     },
     {
       "key": "csp_Upyunso",
-      "name": "📀业余┃UP云搜(搜索)",
+      "name": "📀UP云搜(搜索)♻️",
       "type": 3,
       "api": "csp_Upyunso",
       "playerType": 1,
@@ -1070,7 +1070,7 @@
     },
     {
       "key": "csp_XYQHiker_土拨鼠搜索",
-      "name": "📀业余┃土拨鼠(搜索)",
+      "name": "📀土拨鼠(搜索)♻️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -1082,7 +1082,7 @@
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀业余┃玩偶哥哥(优)",
+      "name": "📀玩偶哥哥♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1094,7 +1094,7 @@
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
-      "name": "📀业余┃云盘资源(搜索)",
+      "name": "📀云盘资源♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1106,7 +1106,7 @@
     },
     {
       "key": "csp_XYQHikerAL_我的小站",
-      "name": "📀业余┃我的小站(搜索)",
+      "name": "📀我的小站♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1118,7 +1118,7 @@
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
-      "name": "📀业余┃阿里云盘(搜索)",
+      "name": "📀阿里云盘♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1130,7 +1130,7 @@
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
-      "name": "📀业余┃豆豆飞(搜索)",
+      "name": "📀豆豆飞♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1142,7 +1142,7 @@
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
-      "name": "📀业余┃橘子盘搜(搜索)",
+      "name": "📀橘子盘搜♻️",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -1154,7 +1154,7 @@
     },
     {
       "key": "csp_XYQHiker_DOVX搜索",
-      "name": "📀业余┃DOVX(搜索)",
+      "name": "📀DOVX♻️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "csp_XYQBiu_云盘分享",
-      "name": "📀业余┃云盘分享(搜索)",
+      "name": "📀云盘分享♻️",
       "type": 3,
       "api": "csp_XYQBiu",
       "playerType": 1,
@@ -1178,7 +1178,7 @@
     },
     {
       "key": "csp_XYQHiker_盘搜索",
-      "name": "📀业余┃盘搜索(搜索)",
+      "name": "📀盘搜索♻️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -1190,7 +1190,7 @@
     },
     {
       "key": "push_agent",
-      "name": "📽业余┃推送",
+      "name": "📽业余┃推送♻️",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": 1,
