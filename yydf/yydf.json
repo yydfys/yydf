@@ -107,7 +107,8 @@
         "标题": "title=\"&&\"",
         "分类url": "https://www.jubaibaic.com/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi"
-      }
+      },
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "我爱跟剧",
@@ -127,7 +128,7 @@
         "分类url": "https://fabu.2ktvb.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#音乐$yinyue"
       },
-      "jar": "./lib/小暴脾气10.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "嗨呀电影",
@@ -137,7 +138,8 @@
       "ext": {
         "分类url": "https://www.hydy5.com/vodshow/{cateId}--------{catePg}---.html",
         "分类": "最新动作片$dongzuopian#最新喜剧片$xijupian#最新爱情片$aiqingpian#最新科幻片$kehuanpian#最新恐怖片$kongbupian#最新剧情片$juqingpian#最新战争片$zhanzhengpian#最新纪录片$jilupian#最新微电影$weidianying#最新动漫电影$dongmandianying#最新国产剧$guochanju#最新香港剧$xianggangju#最新台湾剧$taiwanju#最新韩国剧$hanguoju#最新日本剧$ribenju#最新欧美剧$oumeiju#最新泰国剧$taiguoju#最新海外剧$haiwaiju#最新国产动漫$guochandongman#最新港台动漫$gangtaidongman#最新日韩动漫$rihandongman#最新欧美动漫$oumeidongman#最新海外动漫$haiwaidongman"
-      }
+      },
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "萌猫",
@@ -170,7 +172,8 @@
         "搜索链接前缀": "https://www.mervod.com",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
         "分类url": "https://www.mervod.com/vodtype/{cateId}-{catePg}.html;;m"
-      }
+      },
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "dr_低端",
@@ -743,7 +746,8 @@
         "导演": "导演：&&</p>",
         "主演": "主演：&&</p>",
         "简介": "<p>&&</p>"
-      }
+      },
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "滋滋",
@@ -950,7 +954,8 @@
         "跳转播放链接": "<iframe*src=\"&&\"",
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
-      }
+      },
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
     },
     {
       "key": "YiSo",
