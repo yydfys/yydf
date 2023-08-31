@@ -122,12 +122,13 @@
     },
     {
       "key": "酷酷",
-      "name": "♻️酷酷.app",
+      "name": "♻️酷酷┃App",
       "type": 3,
-      "api": "csp_Kuying",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "http://cms.realdou.cn:35264/api.php/app/"
     },
     {
       "key": "csp_Lib1",
