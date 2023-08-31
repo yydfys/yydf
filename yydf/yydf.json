@@ -36,6 +36,25 @@
       "ext": "./lib/douban.js"
     },
     {
+      "key": "豆豆",
+      "name": "♻️豆瓣.饭",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "♻️玩偶.饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
       "key": "荐片",
       "name": "♻️荐片(cli)",
       "type": 4,
@@ -63,23 +82,13 @@
     },
     {
       "key": "lf_ikanbot",
-      "name": "♻️爱看机器人API",
+      "name": "♻️爱看机器人",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv173lf_ikanbot3_min.js"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "♻️玩偶.饭",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto$$$http://tvfan.xxooo.cf/"
+      "api": "./lib/lf_ikanbot5_2_min.js"
     },
     {
       "key": "剧白白新",
@@ -951,7 +960,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
     },
     {
       "key": "Zhaozy",
@@ -962,7 +971,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto$$$yannanfei$$$abcdefg"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto$$$yannanfei$$$abcdefg"
     },
     {
       "key": "PanSou",
@@ -973,7 +982,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
     },
     {
       "key": "UpYun",
@@ -984,7 +993,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
     },
     {
       "key": "PanSearch",
@@ -995,7 +1004,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
     },
     {
       "key": "七夜",
@@ -1006,7 +1015,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
     },
     {
       "key": "Gitcafe",
@@ -1017,7 +1026,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
@@ -1029,7 +1038,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
@@ -1041,7 +1050,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
@@ -1053,7 +1062,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
@@ -1065,7 +1074,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
@@ -1197,7 +1206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "./lib/xyq825.jar"
     },
     {
