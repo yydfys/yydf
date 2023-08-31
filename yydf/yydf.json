@@ -1544,7 +1544,7 @@
         "网球",
         "斯诺克"
       ],
-      "jar": "./lib/fm0603.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/fm0603.jar"
     },
     {
       "key": "非凡",
@@ -1584,7 +1584,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "./lib/fm0603.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/fm0603.jar"
     },
     {
       "key": "csp_XYQHiker_奇趣影视",
