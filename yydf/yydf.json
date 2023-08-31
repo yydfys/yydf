@@ -78,14 +78,6 @@
       }
     },
     {
-      "key": "360",
-      "name": "♻️360",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "http://xhww.fun:63/小米/源/360.json"
-    },
-    {
       "key": "csp_YGP",
       "name": "♻️新片.速递",
       "type": 3,
