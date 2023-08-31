@@ -317,7 +317,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影港.json",
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -329,7 +329,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/4KHDR.json",
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "drpy_js_磁力熊[磁]",
@@ -347,7 +347,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dyg.json",
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_XYQHiker_6x",
@@ -358,7 +358,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/6X.json",
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_Mp4Mov",
@@ -368,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_New6v",
@@ -379,7 +379,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -390,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/xyq825.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
       "key": "csp_KubaCL",
