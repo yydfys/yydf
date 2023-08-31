@@ -197,16 +197,6 @@
       "filterable": 1
     },
     {
-      "key": "探探",
-      "name": "♻️影探4K.饭",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "小艺",
       "name": "♻️小艺4K",
       "type": 3,
