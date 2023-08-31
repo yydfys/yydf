@@ -89,17 +89,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "./lib/lf_ikanbot5_2_min.js"
-    },    
-    {
-      "key": "dr_低端",
-      "name": "♻️低端(js)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/ddys.js",
-      "playerType": 2
     },
     {
       "key": "csp_DiDuan",
@@ -616,7 +605,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/小暴脾气10.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
       "ext": {
         "站名": "夜光影视",
         "主页url": "https://www.ygpvp.com/",
@@ -640,8 +629,7 @@
         "导演": "导演：&&</p>",
         "主演": "主演：&&</p>",
         "简介": "<p>&&</p>"
-      },
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
+      }      
     },
     {
       "key": "滋滋",
