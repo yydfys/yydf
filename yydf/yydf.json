@@ -177,15 +177,15 @@
       "ext": "https://cz01.fun/"
     },
     {
-      "key": "♻️探探",
-      "name": "♻️影探4K.App",
+      "key": "探探",
+      "name": "♻️影探┃App",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "三八影视",
