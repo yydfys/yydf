@@ -52,7 +52,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto$$$http://tvfan.xxooo.cf/"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "荐片",
@@ -930,7 +930,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -941,7 +941,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto$$$yannanfei$$$abcdefg"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$yannanfei$$$abcdefg"
     },
     {
       "key": "PanSou",
@@ -952,7 +952,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "UpYun",
@@ -963,7 +963,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "PanSearch",
@@ -974,7 +974,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "七夜",
@@ -985,7 +985,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k┃fhd┃auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "push_agent",
@@ -994,7 +994,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_YQKAPP",
