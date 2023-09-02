@@ -45,6 +45,16 @@
       "filterable": 0
     },
     {
+    "key":"csp_woggcli",
+    "name":"♻️俊哥玩偶.T4",
+    "type":4,
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },    
+    {
       "key": "csp_WoGG",
       "name": "♻️玩偶.饭",
       "type": 3,
