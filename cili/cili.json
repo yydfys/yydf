@@ -3,8 +3,17 @@
   "spider": "./lib/xyq.jar",
   "sites": [
     {
+      "key": "csp_Kunyu77",
+      "name": "🐞77影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_JianPian",
-      "name": "♻️业余┃🔨荐片",
+      "name": "🔨荐片",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -14,7 +23,7 @@
     },
     {
       "key": "csp_Ikanbot",
-      "name": "♻️业余┃Ikanbot",
+      "name": "👾Ikanbot",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -23,7 +32,7 @@
     },
     {
       "key": "csp_Mp4Mov",
-      "name": "♻️业余┃🧲Mp4电影",
+      "name": "🧲Mp4电影",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -32,7 +41,7 @@
     },
     {
       "key": "csp_New6v",
-      "name": "♻️业余┃🧲新6V",
+      "name": "🧲新6V",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -42,7 +51,7 @@
     },
     {
       "key": "csp_SeedHub",
-      "name": "♻️业余┃🧲SeedHub",
+      "name": "🧲SeedHub",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -52,7 +61,7 @@
     },
     {
       "key": "csp_KubaCL",
-      "name": "♻️业余┃🧲酷吧电影",
+      "name": "🧲酷吧电影",
       "type": 3,
       "api": "csp_KubaCL",
       "playerType": 1,
@@ -62,7 +71,7 @@
     },
     {
       "key": "csp_MeijuTT",
-      "name": "♻️业余┃🧲美剧天堂",
+      "name": "🧲美剧天堂",
       "type": 3,
       "api": "csp_MeijuTT",
       "playerType": 1,
@@ -72,7 +81,7 @@
     },
     {
       "key": "csp_MeijuMi",
-      "name": "♻️业余┃🧲美剧迷",
+      "name": "🧲美剧迷",
       "type": 3,
       "api": "csp_MeijuMi",
       "playerType": 1,
@@ -82,7 +91,7 @@
     },
     {
       "key": "csp_BLSGod",
-      "name": "♻️业余┃🧲80S影视",
+      "name": "🧲80S影视",
       "type": 3,
       "api": "csp_BLSGod",
       "playerType": 1,
@@ -92,7 +101,7 @@
     },
     {
       "key": "csp_Xunlei8",
-      "name": "♻️业余┃🧲迅雷吧",
+      "name": "🧲迅雷吧",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -102,44 +111,44 @@
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
-      "name": "♻️业余┃🧲📀4KHDR(盘/磁)",
+      "name": "🧲📀4KHDR(盘/磁)",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/4KHDR.json"
     },
     {
       "key": "csp_XYQHiker_电影港",
-      "name": "♻️业余┃🧲电影港",
+      "name": "🧲电影港(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/dianyingcili.json"
+      "ext": "./lib/电影港磁力.json"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
-      "name": "♻️业余┃🧲✈️BT天堂",
+      "name": "🧲✈️BT天堂(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/BTtiantang.json"
+      "ext": "./lib/BT天堂.json"
     },
     {
       "key": "csp_XYQHiker_极影网",
-      "name": "♻️业余┃🧲极影网",
+      "name": "🧲极影网(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/jiyingwang.json"
+      "ext": "./lib/极影网.json"
     }
   ],
   "parses": [
