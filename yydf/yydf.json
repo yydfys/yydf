@@ -63,8 +63,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+    },    
+    {
+      "key": "探探",
+      "name": "♻️影探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
     },
-    
     {
       "key": "YiSo",
       "name": "😹易搜┃搜索♻️",
@@ -256,17 +266,6 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://cz01.fun/"
-    },
-    {
-      "key": "探探",
-      "name": "♻️影探┃App",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "三八影视",
