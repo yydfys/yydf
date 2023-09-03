@@ -1504,6 +1504,74 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
     },
     {
+      "key": "csp_58",
+      "name": "58动漫 |业余♻️",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名": "58动漫",
+        "主页url": "http://www.ting38.com",
+        "简介": "剧情介绍: &&</p>",
+        "导演": "导演：&&</a>",
+        "主演": "主演：&&</a>",
+        "影片状态": "更新：&&</li>",
+        "影片类型": "类型: &&</a>",
+        "数组": "fed-lazy fed-part-2by3\"&&\"fed-list-title",
+        "标题": "title=\"&&\"",
+        "副标题": "fed-text-center\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "http://www.ting38.com/search.php?searchword={wd}",
+        "搜索数组": "fed-lazy fed-part-2by3\"&&\"fed-list-title",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "fed-text-center\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-toggle=&&</a>[替换:动漫专线⑦>>动漫专线1#动漫专线⑤>>动漫专线2][不包含:动漫专线①#动漫专线②#动漫专线④#动漫专线③#动漫专线⑥]",
+        "线路标题": "❤+>&&<+❤",
+        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+        "播放标题": ">&&<",
+        "播放列表": "<a&&/a>",
+        "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html;;ak",
+        "分类": "国产动漫$2#动漫电影$4#新番日漫$1#欧美动漫$3"
+      }
+    },
+    {
+      "key": "58dm",
+      "name": "58动漫 |业余♻️",
+      "api": "csp_XBPQ",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "playerType": "2",
+      "ext": {
+        "站名": "58动漫",
+        "主页url": "http://www.58run.net",
+        "数组": "class=\"stui-vodlist__box\">&&</a",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": " <span class=\"pic-text text-right\">&&</span>",
+        "分类url": "http://www.58run.net/category/{cateId}-{catePg}.html",
+        "分类": "国产动漫$1#日韩动漫$2#欧美动漫$3#高清动漫$4#电影$5"
+      }
+    },
+    {
       "key": "csp_XPath_age",
       "name": "♻️AGE动漫",
       "type": 3,
