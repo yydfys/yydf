@@ -5,7 +5,7 @@
     {
       "name": "♻️TV",
       "type": 0,
-      "url": "./lib/zhibo.txt",
+      "url": "./zhibo.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,7 +13,7 @@
     {
       "name": "♻️live",
       "type": 0,
-      "url": "https://pan.shangui.cc/f/8oyzfo/live.txt",
+      "url": "./live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -21,7 +21,7 @@
     {
       "name": "♻️MTV",
       "type": 0,
-      "url": "./lib/MTV.txt",
+      "url": "./MTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
