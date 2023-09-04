@@ -3,14 +3,6 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
-      "name": "♻️TV",
-      "type": 0,
-      "url": "./zhibo.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "♻️live",
       "type": 0,
       "url": "./live.txt",
@@ -18,6 +10,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "♻️TV",
+      "type": 0,
+      "url": "./zhibo.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
     {
       "name": "♻️MTV",
       "type": 0,
