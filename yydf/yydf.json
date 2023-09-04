@@ -13,7 +13,7 @@
     {
       "name": "♻️live",
       "type": 0,
-      "url": "./lib/TV.txt",
+      "url": "https://pan.shangui.cc/f/8oyzfo/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
