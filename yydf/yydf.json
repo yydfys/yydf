@@ -1641,7 +1641,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝2.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq802.jar"
     },
     {
       "key": "py_cctv_1",
