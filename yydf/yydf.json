@@ -170,6 +170,66 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
+      "key": "Gitcafe",
+      "name": "📀小纸条♻️",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "📀找资源♻️",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀喵狸盘搜♻️",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "📀易搜♻️",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "📀UP云搜♻️",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
       "key": "广播迷",
       "name": "♻️广播",
       "type": 3,
