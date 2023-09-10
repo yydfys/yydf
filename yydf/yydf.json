@@ -1236,18 +1236,40 @@
       "key": "csp_XPath_age",
       "name": "♻️AGE动漫",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/AGE动漫.json"
+      "ext": {
+        "站名": "AGE动漫",
+        "主页url": "https://www.agedm123.com/",
+        "数组": "class=\"media-wrapper\">&&</div",
+        "链接": "href=\"&&\"",
+        "图片": "class=\"lazy\" data-original=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "分类url": "https://www.agedm123.com/type/{cateId}-{catePg}.html",
+        "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#其他动漫$4#动画电影$5"
+      }
     },
     {
-      "key": "drpy_js_动漫岛",
+      "key": "csp_XBPQ_dmdao",
       "name": "♻️动漫岛",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/动漫岛.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "站名": "动漫岛",
+        "主页url": "https://www.dmdao.tv",
+        "数组": "class=\"stui-vodlist__box\">&&</a",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "<span class=\"pic-text1 text-right\"><b>&&</b></span>",
+        "分类url": "https://www.dmdao.tv/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "国产动漫$21#日本动漫$20#欧美动漫$22#剧场电影$23"
+      }
     },
     {
       "key": "drpy_js_路漫漫",
