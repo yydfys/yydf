@@ -173,7 +173,7 @@
       "key": "广播迷",
       "name": "♻️广播",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "./xbpq10.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
@@ -231,7 +231,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/音范丝.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHikerdyx",
@@ -242,7 +242,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影港磁力.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "drpy_js_磁力熊[磁]",
@@ -260,7 +260,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dyg.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_6x",
@@ -271,7 +271,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/6X.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_Mp4Mov",
@@ -281,7 +281,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_New6v",
@@ -292,7 +292,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -303,7 +303,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_KubaCL",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_MeijuTT",
@@ -325,7 +325,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -336,7 +336,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -347,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -358,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -370,7 +370,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/4KHDR.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -381,7 +381,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/dianyingcili.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -392,7 +392,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/BTtiantang.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -403,7 +403,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/jiyingwang.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "快车资源",
@@ -543,7 +543,7 @@
       "key": "莱米",
       "name": "♻️莱米",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "./xbpq10.jar;md5;c570b052645834a1109b54421c1552f9",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -580,7 +580,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar",
+      "jar": "./xbpq10.jar",
       "ext": {
         "站名": "夜光影视",
         "主页url": "https://www.ygpvp.com/",
@@ -610,7 +610,7 @@
       "key": "滋滋",
       "name": "♻️滋滋",
       "type": 3,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar",
+      "jar": "./xbpq10.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -653,7 +653,7 @@
       "key": "兔兔",
       "name": "♻️兔兔",
       "type": 3,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar",
+      "jar": "./xbpq10.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
@@ -793,6 +793,7 @@
       "quickSearch": 1,
       "playerType": "1",
       "api": "csp_XBPQ",
+      "jar": "./xbpq10.jar",
       "ext": {
         "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
@@ -804,9 +805,8 @@
         "跳转播放链接": "<iframe*src=\"&&\"",
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
+      }
       },
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/小暴脾气10.jar"
-    },
     {
       "key": "push_agent",
       "name": "😾手机┃推送♻️",
@@ -945,7 +945,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/aikanyngyuan.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -956,7 +956,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/aikanyingshi.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
@@ -967,7 +967,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/乐鱼影视.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -978,7 +978,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/疯狗影视.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -989,7 +989,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/锐行加速影院.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_秋霞影视",
@@ -1000,7 +1000,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qiuxia.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "量子",
@@ -1096,7 +1096,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/奇趣影视.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "Lezhu",
@@ -1107,7 +1107,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "./lib/乐猪.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -1118,7 +1118,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/农民影视.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
@@ -1129,7 +1129,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兄弟影视.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -1140,7 +1140,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/电影牛影院.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker素白白",
@@ -1151,7 +1151,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/素白白.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "蓝光影院",
@@ -1162,7 +1162,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/languang.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_58",
@@ -1554,7 +1554,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/DJ呦呦音乐网.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "py_qie",
@@ -1630,7 +1630,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝.json",
-      "jar": "./xyq802.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -1641,7 +1641,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/兔小贝2.json",
-      "jar": "./xyq802.jar"
+      "jar": "./xyq910.jar"
     },
     {
       "key": "py_cctv_1",
@@ -1964,7 +1964,7 @@
       "key": "ext_live_protocol",
       "name": "♻️关注公众号“业余打发”，请升级壳子，体验最新源！",
       "type": 3,
-      "api": "./lib/apiv5240协议.js",
+      "api": "./lib/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     }
   ],
