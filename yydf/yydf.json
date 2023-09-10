@@ -1166,7 +1166,7 @@
     },
     {
       "key": "csp_58",
-      "name": "58动漫 |业余♻️",
+      "name": "♻️38动漫",
       "type": 3,
       "style": {
         "type": "rect",
@@ -1208,7 +1208,7 @@
     },
     {
       "key": "58dm",
-      "name": "58动漫 |业余♻️",
+      "name": "♻️58动漫",
       "api": "csp_XBPQ",
       "type": 3,
       "style": {
@@ -1236,6 +1236,7 @@
       "key": "csp_XPath_age",
       "name": "♻️AGE动漫",
       "type": 3,
+      "jar": "./xbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 0,
@@ -1255,6 +1256,7 @@
       "key": "csp_XBPQ_dmdao",
       "name": "♻️动漫岛",
       "type": 3,
+      "jar": "./xbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 0,
