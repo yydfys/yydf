@@ -1590,35 +1590,35 @@
       "key": "♻️少儿频道专区♻️",
       "name": "🌏以下是“少儿频道”专区🌏",
       "type": 3,
-      "api": "./lib/apiv5240协议.js",
+      "api": "./lib/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     },
     {
       "key": "腾讯1",
       "name": "♻️少儿频道1",
       "type": 3,
-      "api": "./lib/apiv5258drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾讯.js"
     },
     {
       "key": "芒果1",
       "name": "♻️少儿频道2",
       "type": 3,
-      "api": "./lib/apiv5258drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/忙果.js"
     },
     {
       "key": "奇艺1",
       "name": "♻️少儿频道3",
       "type": 3,
-      "api": "./lib/apiv5258drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/异兽.js"
     },
     {
       "key": "优酷1",
       "name": "♻️少儿频道4",
       "type": 3,
-      "api": "./lib/apiv5258drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
@@ -1667,7 +1667,7 @@
       "key": "童趣",
       "name": "♻️童趣",
       "type": 3,
-      "api": "./lib/apiv5258drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/童趣.js"
     },
     {
