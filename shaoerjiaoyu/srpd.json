@@ -16,7 +16,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/兔小贝.json"
+      "ext": "./json/兔小贝.json",
+      "jar": "./custom_spider.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -26,7 +27,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/兔小贝2.json"
+      "ext": "./json/兔小贝2.json",
+      "jar": "./custom_spider.jar"
     },
     {
       "key": "py_baby",
@@ -101,7 +103,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/播视童趣.json"
+      "ext": "./json/播视童趣.json",
+      "jar": "./custom_spider.jar"
     },
     {
       "key": "幼儿启蒙",
