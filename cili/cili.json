@@ -22,15 +22,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Ikanbot",
-      "name": "👾Ikanbot",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
       "type": 3,
