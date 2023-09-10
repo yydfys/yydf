@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar",
   "sites": [
     {
       "key": "drpy_js_ddys",
