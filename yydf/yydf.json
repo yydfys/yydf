@@ -173,7 +173,7 @@
       "key": "广播迷",
       "name": "♻️广播",
       "type": 3,
-      "jar": "./xbpq10.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "./xbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
@@ -543,7 +543,7 @@
       "key": "莱米",
       "name": "♻️莱米",
       "type": 3,
-      "jar": "./xbpq10.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "./xbpq.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -580,7 +580,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./xbpq10.jar",
+      "jar": "./xbpq.jar",
       "ext": {
         "站名": "夜光影视",
         "主页url": "https://www.ygpvp.com/",
@@ -610,7 +610,7 @@
       "key": "滋滋",
       "name": "♻️滋滋",
       "type": 3,
-      "jar": "./xbpq10.jar",
+      "jar": "./xbpq.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -653,7 +653,7 @@
       "key": "兔兔",
       "name": "♻️兔兔",
       "type": 3,
-      "jar": "./xbpq10.jar",
+      "jar": "./xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
@@ -793,7 +793,7 @@
       "quickSearch": 1,
       "playerType": "1",
       "api": "csp_XBPQ",
-      "jar": "./xbpq10.jar",
+      "jar": "./xbpq.jar",
       "ext": {
         "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
@@ -1005,7 +1005,8 @@
     {
       "key": "量子",
       "name": "♻️量子",
-      "type": 0,
+      "type": 0,      
+      "jar": "./fm0603.jar",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
@@ -1044,13 +1045,13 @@
         "篮球",
         "网球",
         "斯诺克"
-      ],
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/fm0603.jar"
+      ]
     },
     {
       "key": "非凡",
       "name": "♻️非凡",
-      "type": 0,
+      "type": 0,      
+      "jar": "./fm0603.jar",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
@@ -1084,8 +1085,7 @@
         "欧美动漫",
         "港台动漫",
         "海外动漫"
-      ],
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/fm0603.jar"
+      ]
     },
     {
       "key": "csp_XYQHiker_奇趣影视",
