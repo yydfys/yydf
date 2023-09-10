@@ -69,7 +69,7 @@
       "name": "♻️业余┃荐片.影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jianpian.js",
+      "ext": "./lib/荐片.js",
       "playerType": "1"
     },
     {
