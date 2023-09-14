@@ -1,0 +1,438 @@
+{
+  "spider": "./fty.jar",
+  "sites": [
+    {
+      "key": "drpy_js_ddys",
+      "name": "豆瓣荐片",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/douban.js"
+    },
+    {
+      "key": "dr_77",
+      "name": "酷云七七",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./js/酷云77.js"
+    },
+    {
+      "key": "ity",
+      "name": "爱TV丨4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
+        "副标题": "<span class=\"pic-text text-right\"><b>&&</b></span>",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6",
+        "分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+      },
+      "jar": "./小暴脾气7.jar"
+    },
+    {
+      "key": "js_酷狗MV",
+      "name": "🎻┃酷狗┃音乐",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/酷狗MV.js"
+    },
+    {
+      "key": "csp_XBPQ_酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/酷奇MV.json",
+      "jar": "./小暴脾气7.jar"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎸明星┃MV",
+      "type": 1,
+      "api": "https://mv.饭太硬.ml/mv/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_A8音乐",
+      "name": "A8音乐[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/A8音乐.js"
+    },
+    {
+      "key": "drpy_js_种子音乐",
+      "name": "种子音乐[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/种子音乐.js"
+    },
+    {
+      "key": "drpy_js_DJ音乐",
+      "name": "DJ音乐[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/DJ音乐.js"
+    },
+    {
+      "key": "drpy_js_音悦网",
+      "name": "音悦网[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/音悦网.js"
+    },
+    {
+      "key": "drpy_js_MV263",
+      "name": "MV263[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/MV263.js"
+    },
+    {
+      "key": "drpy_js_爱车MV",
+      "name": "爱车MV[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/爱车MV.js"
+    },
+    {
+      "key": "演唱会",
+      "name": "🅱┃哔哩┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/ych.json"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "哔哔┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/biliych.json"
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "网易公版影像[js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/网易公版影像.js"
+    },
+    {
+      "key": "drpy_js_学生球赛录像[js1]",
+      "name": "学生球赛录像[js1][js]",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/学生球赛录像[js1].js"
+    },
+    {
+      "key": "MTV转点播",
+      "name": "🎶万首| MTV",
+      "type": 3,
+      "api": "./js/lf_live_min.js",
+      "ext": "./js/mv.txt"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🤳字母┃点歌台",
+      "type": 1,
+      "api": "https://mv.饭太硬.ml/mv/vod"
+    },
+    {
+      "key": "dr_263",
+      "name": "🌺高清MV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./js/MV263.js"
+    },
+    {
+      "key": "dr_pgdj",
+      "name": "🍎苹果dj",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./js/苹果DJ.js"
+    },
+    {
+      "key": "da_ry",
+      "name": "🎵音乐┃MV",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "js_DJ",
+      "name": "🎧DJ┃摇摆吧",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/DJ音乐.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_qf",
+      "name": "🍃清风DJ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/清风DJ.js"
+    },
+    {
+      "key": "Jango",
+      "name": "🎵Jango┃音乐",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./js/JangoIndex.js"
+    },
+    {
+      "key": "MV263",
+      "name": "🎵MV263┃MV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./js/MV263.js"
+    },
+    {
+      "key": "短视频",
+      "name": "短视频┃聚合",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/短视频.json",
+      "jar": "./小暴脾气7.jar"
+    },
+    {
+      "key": "演唱会",
+      "name": "🅱哔哩┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/哔哩哔哩音乐.json"
+    }
+  ],
+  "rules": [
+    {
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ],
+      "filter": [
+        
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": [
+        
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": [
+        
+      ]
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "1-看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "2-虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "3-麒麟",
+      "type": 0,
+      "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+    },
+    {
+      "name": "4-parwix1",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "5-OK解析",
+      "type": 0,
+      "url": "http://okjx.cc/?url=",
+      "parse": "1",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "6-yparse",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "7-jsonplayer",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "8-aidou",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "wallpaper": "https://picsum.photos/1280/720/?blur=2"
+}
