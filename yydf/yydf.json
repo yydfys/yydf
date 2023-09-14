@@ -52,7 +52,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+    "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },    
     {
       "key": "csp_WoGG",
@@ -62,8 +62,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     }, 
+    {
+            "key": "yc",
+            "name": "4KHDR_ali| 业余♻️",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+        },
     {
       "key": "drpy_js_荐片",
       "name": "♻️业余┃荐片.影视",
@@ -120,7 +132,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -131,7 +143,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "PanSou",
@@ -142,7 +154,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "UpYun",
@@ -153,7 +165,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "PanSearch",
@@ -164,7 +176,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "七夜",
@@ -175,7 +187,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "Gitcafe",
@@ -187,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_Zhaozy",
@@ -199,7 +211,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_AliPS",
@@ -211,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_Yisou",
@@ -223,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -235,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "广播迷",
