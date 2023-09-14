@@ -75,6 +75,7 @@
             "filterable": 0,
             "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
             "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+           /*"jar": "./xry.jar"*/
         },
     {
       "key": "drpy_js_荐片",
