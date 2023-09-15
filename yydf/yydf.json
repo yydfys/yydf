@@ -45,6 +45,13 @@
       "filterable": 0
     },
     {
+      "key": "畅梦",
+      "name": "♻️畅梦秒播",
+      "type": 3,
+      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"
+   },
+    {
     "key":"csp_woggcli",
     "name":"♻️俊哥玩偶.T4",
     "type":4,
@@ -111,14 +118,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/iqy.js"
-    },
-    {
-  "key": "畅梦",
-  "name": "♻️畅梦秒播",
-  "type": 3,
-  "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-  "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"
-   },
+    },    
     {
       "key": "探探",
       "name": "♻️影探┃App",
