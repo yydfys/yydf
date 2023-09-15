@@ -29,14 +29,6 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/🐿ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
-    {  "key": "移动云盘",
-       "name": "🦋移动云盘|业余♻️",
-       "type": 1,
-       "playerType":1,
-       "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-       "searchable": 1,
-       "quickSearch": 1
-    },
     {
       "key": "🍮Gitcafe6",
       "name": "🍮纸条搜|业余♻️",
