@@ -592,18 +592,6 @@
     },
     {
       "key": "push_agent",
-      "name": "🦉夸克推送.PG",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "./tv/open_token.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/🦉.jar"
-    },
-    {
-      "key": "push_agent",
       "name": "♻️|业余饭.推送",
       "type": 3,
       "api": "csp_Push",
