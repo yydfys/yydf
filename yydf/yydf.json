@@ -52,7 +52,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+    "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },    
     {
       "key": "csp_WoGG",
@@ -62,7 +62,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php$$$http://tvfan.xxooo.cf/"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
     }, 
     {
             "key": "4khdr_ali",
@@ -132,7 +132,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "Zhaozy",
