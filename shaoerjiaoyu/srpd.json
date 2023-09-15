@@ -57,7 +57,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "./json/央视经典.json"
     },
     {
