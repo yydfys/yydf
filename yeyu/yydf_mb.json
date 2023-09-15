@@ -125,17 +125,7 @@
     "分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4" }
-    },    
-    {
-      "key": "csp_AppYsV2_玉米",
-      "name": "玉米.影视 |业余♻️",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
-    },
+    }, 
     {
       "key": "libviotop",
       "name": "蚂蚁影视 |业余♻️",
@@ -273,39 +263,6 @@
       "quickSearch": 1
     },
     {
-      "key": "♻️追剧",
-      "name": "追剧 | 业余♻️",
-      "type": 3,
-      "api": "csp_Zjdros",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://1k.953365.cn/zhuijuos.php/v6/",
-      "jar": "https://jihulab.com/zhulr7765/tvbox/raw/main/jar/spider.jar"
-    },
-    /*{
-      "key": "iztyy",
-      "name": "猪蹄影视 | 业余♻️",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": "1",
-      "ext": {
-        "站名": "猪蹄影视",
-        "主页url": "https://v.iztyy.cc",
-        "数组": "class=\"stui-vodlist__box\">&&</a",
-        "链接": "href=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "分类url": "https://v.iztyy.cc/{cateId}/all/{catePg}.html",
-        "分类": "电影$movielist#电视剧$tvlist#综艺$zylist"
-      }
-    },
-    */{
       "key": "wyystv",
       "name": "无忧影视 | 业余♻️",
       "type": 3,
@@ -329,7 +286,7 @@
     },
     {
       "key": "黑狐",
-      "name": "黑狐.BPQ | 业余♻️",
+      "name": "黑狐 | 业余♻️",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -392,6 +349,28 @@
         "动漫"
       ]
     },
+    {
+"key": "yangtu",
+"name": "阳途影视",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"fitlerable": 1,
+"changerable": 1,
+"playerType": "2",
+"ext": {
+"站名": "阳途影视",
+"首页url": "https://yangtu.top",
+"数组": "<div class=\"items\" id=\"listList\">&&</a",
+"链接": "href=\"&&\"",
+"图片": "src=\"&&\"",
+"标题": "<span>&&</span>
+"副标题": "<b>&&</b>",
+"分类url": "https://yangtu.top/list/{cateId}/?page={catePg}&area={area}&year={year}",
+"": "电影$dianying#电视$dianshi#综艺$zongyi#动漫$dongman"
+}
+},
     {
       "key": "嗨呀电影",
       "name": "嗨呀电影 | 业余♻️",
