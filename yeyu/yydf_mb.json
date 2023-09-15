@@ -336,42 +336,6 @@
       "jar": "./jar/🧚‍♂️.jar;md5;31259341cb1a5ed11da14804d14f1054"
     },
     {
-      "key": "秒看资源",
-      "name": "秒看采集 | 业余♻️",
-      "type": 1,
-      "api": "https://mkzy.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-"key": "yangtu",
-"name": "阳途影视",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"fitlerable": 1,
-"changerable": 1,
-"playerType": "2",
-"ext": {
-"站名": "阳途影视",
-"首页url": "https://yangtu.top",
-"数组": "<div class=\"items\" id=\"listList\">&&</a",
-"链接": "href=\"&&\"",
-"图片": "src=\"&&\"",
-"标题": "<span>&&</span>",
-"副标题": "<b>&&</b>",
-"分类url": "https://yangtu.top/list/{cateId}/?page={catePg}&area={area}&year={year}",
-"分类": "电影$dianying#电视$dianshi#综艺$zongyi#动漫$dongman"
-}
-},
-    {
       "key": "嗨呀电影",
       "name": "嗨呀电影 | 业余♻️",
       "type": 3,
