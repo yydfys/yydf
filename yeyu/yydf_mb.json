@@ -19,6 +19,7 @@
     }
   ],
   "sites": [
+      
       {"key": "土豪影视",
       "name": "土豪影视 |业余♻️",
       "type": 3,
@@ -69,63 +70,46 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-    
     "作者":"业余打发.初作",
-    
     "站名":"TVB云播",
-    
     "主页url":"http://www.tvyb03.com/",
-    
     "请求头":"手机",
-    
     "影片类型":"分类：</span>&&</p>",
     "更新状态":"更新：</span>&&</p>",
     "导演":"导演：</span>&&</p>",
-    
     "主演":"主演：</span>&&</p>",
-    
     "简介":"【业余打发】提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群：759662646，公众号：业余打发，获取更多影视资源。剧情：+<span class=\"sketch content\">&&</span>",
-    
     "数组":"myui-vodlist__thumb&&</a>",
-    
     "标题":"title=\"&&\"",
-    
     "副标题":"pic-tag pic-tag-top\">&&</span>",
-    
     "图片":"data-original=\"&&\"",
-    
     "链接":"href=\"&&\"",
-    
     "搜索url":"/vod/search.html?wd={wd}&submit=",
-    
     "搜索数组":"myui-vodlist__thumb&&</a>",
-    
     "搜索标题":"title=\"&&\"",
-    
     "搜索副标题":"pic-tag pic-tag-top\">&&</span>",
-    
     "搜索图片":"data-original=\"&&\"",
-    
     "搜索链接":"href=\"&&\"",
-    
     "搜索模式":"1",
-    
     "搜索后缀":"/vod/detail/id/",
-    
     "线路数组":"</a><h3&&/h3>",
-    
     "线路标题":"♻️业余打发:+title\">&&<",
-    
     "播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>",
-    
     "播放标题":">&&<",
-    
     "播放列表":"<a&&/a>",
-    
     "分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4" }
-    }, 
+    {
+      "key": "csp_AppYsV2_玉米",
+      "name": "玉米.影视 |业余♻️",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
+    },
     {
       "key": "libviotop",
       "name": "蚂蚁影视 |业余♻️",
@@ -263,6 +247,39 @@
       "quickSearch": 1
     },
     {
+      "key": "♻️追剧",
+      "name": "追剧 | 业余♻️",
+      "type": 3,
+      "api": "csp_Zjdros",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://1k.953365.cn/zhuijuos.php/v6/",
+      "jar": "https://jihulab.com/zhulr7765/tvbox/raw/main/jar/spider.jar"
+    },
+    /*{
+      "key": "iztyy",
+      "name": "猪蹄影视 | 业余♻️",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": "1",
+      "ext": {
+        "站名": "猪蹄影视",
+        "主页url": "https://v.iztyy.cc",
+        "数组": "class=\"stui-vodlist__box\">&&</a",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "分类url": "https://v.iztyy.cc/{cateId}/all/{catePg}.html",
+        "分类": "电影$movielist#电视剧$tvlist#综艺$zylist"
+      }
+    },
+    */{
       "key": "wyystv",
       "name": "无忧影视 | 业余♻️",
       "type": 3,
@@ -286,7 +303,7 @@
     },
     {
       "key": "黑狐",
-      "name": "黑狐 | 业余♻️",
+      "name": "黑狐.BPQ | 业余♻️",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -373,16 +390,6 @@
       "ext": {
         "分类url": "https://www.kanyss.com/filmshow/dm-{area}-------{catePg}---{year}.html",
         "分类": "大陆$大陆#日本$日本#美国$美国#韩国$韩国#香港$香港#台湾$台湾#泰国$泰国#英国$英国#其他$其他"
-      }
-    },
-    {
-      "key": "策智影视",
-      "name": "策智影视 | 业余♻️",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "http://www.yihani.com/search.php?page={catePg}&searchtype=5&tid={tid}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
     {
@@ -475,7 +482,7 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
-    {
+   /* {
       "key": "剧白白新",
       "name": "剧白白.BPQ | 业余♻️",
       "type": 3,
@@ -503,7 +510,7 @@
         "分类url": "https://bzhanyy.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
-    },
+    },*/
     {
       "key": "两个BT",
       "name": "两个BT | 业余♻️",
@@ -534,7 +541,7 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
-    {
+    /*{
       "key": "稀饭影视",
       "name": "稀饭影视 | 业余♻️",
       "type": 3,
@@ -543,7 +550,7 @@
         "分类url": "https://ht.xifanys.com/yingpianshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$dianying#剧集$lianxuju#综艺$zongyi#动漫$dongman#纪录$jilupian"
       }
-    },
+    },*/
     {
       "key": "柚子电影",
       "name": "柚子电影 | 业余♻️",
@@ -583,19 +590,10 @@
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#音乐$yinyue"
       }
     },
-    {
-      "key": "大米星球1",
-      "name": "大米星球1 | 业余♻️",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://dmxq.gq/{cateId}?region={area}&year={year}&page={catePg}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$movie/dongman#综艺$movie/zongyi"
-      }
-    },
+    
     {
       "key": "大米星球2",
-      "name": "大米星球2 | 业余♻️",
+      "name": "大米星球 | 业余♻️",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -786,13 +784,13 @@
       "api": "csp_XBPQ",
       "ext": {
         "站名": "仓库影视",
-        "主页url": "http://698hsck.cc/",
+        "主页url": "http://237hsck.cc/",
         "数组": "<div class=\"stui-vodlist__box\">&&</a",
         "链接": "href=\"&&\"",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "分类url": "http://698hsck.cc/vodtype/{cateId}-{catePg}.html",
+        "分类url": "http://237hsck.cc/vodtype/{cateId}-{catePg}.html",
         "分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"
       }
     },
@@ -876,7 +874,7 @@
       "name": "♻️阳途",
       "type": 1,
       "url": "https://jx.yangtu.top/?url="
-    },    
+    },   
     {
       "name": "♻️神秘",
       "type": 1,
