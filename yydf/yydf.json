@@ -52,7 +52,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext": "https://pan.shangui.cc/f/p5RUL/tk.php"
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
     },    
     {
       "key": "csp_WoGG",
@@ -75,7 +75,6 @@
             "filterable": 0,
             "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
             "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-           /*"jar": "./xry.jar"*/
         },
     {
       "key": "drpy_js_荐片",
