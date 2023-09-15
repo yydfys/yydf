@@ -113,6 +113,23 @@
       "ext": "./lib/iqy.js"
     },
     {
+  "key": "365",
+  "name": "♻️365秒播",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://guan.yy365.vip/api.php/app/"
+},
+{
+  "key": "畅梦",
+  "name": "♻️畅梦秒播",
+  "type": 3,
+  "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+  "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"
+},
+    {
       "key": "探探",
       "name": "♻️影探┃App",
       "type": 3,
