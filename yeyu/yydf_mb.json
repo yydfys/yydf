@@ -763,7 +763,7 @@
       },
       "api": "csp_XBPQ",
       "ext": {
-        "站名": "三花聚顶",
+        "站名": "暂停开放：三花聚顶",
         /*"主页url": "https://www.jokerlulin.cc",
         "数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
        "图片": "src=\"&&\"",
@@ -777,7 +777,7 @@
       */
     {
       "key": "仓库",
-      "name": "仓库影院㊙️ | 业余♻️",
+      "name": "暂停开放：仓库影院㊙️ | 业余♻️",
       "type": 3,
       "style": {
         "type": "rect",
@@ -800,7 +800,7 @@
      /*"分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"*/
     {
       "key": "玉兔资源",
-      "name": "月宫玉兔㊙️ | 业余♻️",
+      "name": "暂停开放：月宫玉兔㊙️ | 业余♻️",
       "type": 0,
       "style": {
         "type": "rect",
@@ -813,7 +813,7 @@
     },
     {
       "key": "timizy",
-      "name": "甜蜜资源㊙️ | 业余♻️",
+      "name": "暂停开放：甜蜜资源㊙️ | 业余♻️",
       "type": 1,
       "style": {
         "type": "rect",
