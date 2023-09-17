@@ -764,16 +764,16 @@
       "api": "csp_XBPQ",
       "ext": {
         "站名": "三花聚顶",
-        //"主页url": "https://www.jokerlulin.cc",
-        //"数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
-       // "图片": "src=\"&&\"",
-        //"链接": "href=\"&&\"",
-        //"标题": "class=\"title\">&&</a>",
-        //"分类url": "https://www.jokerlulin.cc/index.php/vodtype/{cateId}-{catePg}.html",
-        "分类": "此频道内容暂停开放"
+        /*"主页url": "https://www.jokerlulin.cc",
+        "数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
+       "图片": "src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "标题": "class=\"title\">&&</a>",
+        "分类url": "https://www.jokerlulin.cc/index.php/vodtype/{cateId}-{catePg}.html",
+        */"分类": "此频道内容暂停开放"
        }
     },
-    /* "分类": "麻豆视频$121#91制片厂$122#天美传媒$123#蜜桃传媒$124#皇家华人$125#星空传媒$126#精东影业$127#乐播传媒$128#91茄子$129#玩偶姐姐$133#草莓猛料$136#葫芦影业$139#果冻传媒$140#欧美性爱$29#丝袜美腿$56#亚洲情色$58#步兵无码$28#国产精品$10#空姐模特$19#北京天使$119"
+   /* "分类": "麻豆视频$121#91制片厂$122#天美传媒$123#蜜桃传媒$124#皇家华人$125#星空传媒$126#精东影业$127#乐播传媒$128#91茄子$129#玩偶姐姐$133#草莓猛料$136#葫芦影业$139#果冻传媒$140#欧美性爱$29#丝袜美腿$56#亚洲情色$58#步兵无码$28#国产精品$10#空姐模特$19#北京天使$119"
       */
     {
       "key": "仓库",
@@ -786,14 +786,14 @@
       "api": "csp_XBPQ",
       "ext": {
         "站名": "仓库影视",
-        //"主页url": "http://237hsck.cc/",
+        /*"主页url": "http://237hsck.cc/",
         "数组": "<div class=\"stui-vodlist__box\">&&</a",
         "链接": "href=\"&&\"",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        //"分类url": "http://237hsck.cc/vodtype/{cateId}-{catePg}.html",
-        "分类": "此频道内容暂停开放$999"
+        "分类url": "http://237hsck.cc/vodtype/{cateId}-{catePg}.html",
+        */"分类": "此频道内容暂停开放$999"
        
       }
     },
