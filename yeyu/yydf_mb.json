@@ -751,7 +751,7 @@
         },
     {
       "key": "轻便撸",
-      "name": "三花聚顶㊙️ | 业余♻️",
+      "name": "暂停开放：三花聚顶㊙️ | 业余♻️",
       "type": 3,
       "searchable": 0,
       "quickSearch": 0,
@@ -763,7 +763,7 @@
       },
       "api": "csp_XBPQ",
       "ext": {
-        "站名": "暂停开放：三花聚顶",
+        "站名": "三花聚顶",
         /*"主页url": "https://www.jokerlulin.cc",
         "数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
        "图片": "src=\"&&\"",
