@@ -764,12 +764,12 @@
       "api": "csp_XBPQ",
       "ext": {
         "站名": "三花聚顶",
-        "主页url": "https://www.jokerlulin.cc",
+        //"主页url": "https://www.jokerlulin.cc",
         "数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
         "图片": "src=\"&&\"",
         "链接": "href=\"&&\"",
         "标题": "class=\"title\">&&</a>",
-        "分类url": "https://www.jokerlulin.cc/index.php/vodtype/{cateId}-{catePg}.html",
+        //"分类url": "https://www.jokerlulin.cc/index.php/vodtype/{cateId}-{catePg}.html",
         "分类": "此频道内容暂停开放$999"
        }
     },
@@ -786,13 +786,13 @@
       "api": "csp_XBPQ",
       "ext": {
         "站名": "仓库影视",
-        "主页url": "http://237hsck.cc/",
+        //"主页url": "http://237hsck.cc/",
         "数组": "<div class=\"stui-vodlist__box\">&&</a",
         "链接": "href=\"&&\"",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "分类url": "http://237hsck.cc/vodtype/{cateId}-{catePg}.html",
+        //"分类url": "http://237hsck.cc/vodtype/{cateId}-{catePg}.html",
         "分类": "此频道内容暂停开放$999"
        
       }
