@@ -91,6 +91,15 @@
       "ext": "./lib/荐片.js",
       "playerType": "1"
     },
+    { "key":"sp360",
+      "name":"♻️360影视|解析",
+      "type":3,
+      "api":"csp_Sp360",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "./920.jar"
+    },
     {
       "key": "drpy_js_优酷1",
       "name": "♻️优酷(官源)",
