@@ -130,6 +130,16 @@
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
     },
+     {
+     "key": "SNzy",
+     "name": "♻️索尼资源",
+     "type": 1,
+     "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+     "searchable": 1,
+     "changeable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+     },
     {
       "key": "猫放时光",
       "name": "♻️猫时光",
