@@ -92,7 +92,7 @@
       "playerType": "1"
     },
     { "key":"sp360",
-      "name":"♻️360影视|解析",
+      "name":"♻️360影视.弹幕|解析",
       "type":3,
       "api":"csp_Sp360",
       "searchable":1,
