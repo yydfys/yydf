@@ -2153,6 +2153,11 @@
       "type": 2,
       "url": "Parallel"
     },
+      {
+      "name": "♻️追忆",
+      "type": 1,
+      "url": "http://115.231.220.36:9999/jx/tvbox/xtwl.php?url="
+    },
     {
       "name": "♻️zhanglang",
       "type": 0,
