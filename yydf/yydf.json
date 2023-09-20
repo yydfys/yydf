@@ -72,17 +72,17 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
     }, 
     {
-            "key": "4khdr_ali",
-            "name": "4KHDR_ali| 业余♻️",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-        },
+        "key": "4khdr_ali",
+        "name": "♻️4KHDR_ali",
+        "type": 3,
+        "playerType": 1,
+        "api": "csp_Hdhive",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+        "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
     {
       "key": "drpy_js_荐片",
       "name": "♻️业余┃荐片.影视",
