@@ -1577,6 +1577,16 @@
       "filterable": 1,
       "ext": "./lib/软件教程.json"
     },
+     { "key":"csp_Aid",
+      "name":"♻️吾爱急救指南",
+      "type":3,
+      "api":"csp_FirstAid",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "style": { "type": "rect", "ratio": 3.8},
+      "jar":"./dDSz.jar;md5;510FA1663F7067BD4D40DE06097202BF"
+    },  
     {
       "key": "Excel教程",
       "name": "♻️吾爱Excel",
