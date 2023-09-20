@@ -56,6 +56,15 @@
         "分类url": "https://www.tuhao.tv/vsh/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$1#剧集$2#动漫$3#纪录片$4#综艺$5#B站$50#电影解说$57#体育$56"}
         },
+         { "key":"sp360",
+      "name":"♻️360影视.弹幕|解析",
+      "type":3,
+      "api":"csp_Sp360",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/920.jar"
+       },
         {
       "key": "TVB",
       "name": "TVB云播 |业余♻️",
