@@ -91,6 +91,16 @@
       "ext": "./lib/荐片.js",
       "playerType": "1"
     },
+    { 
+     "key":"csp_Alistxy",
+     "name":"🅿️Alist网盘♻️",     
+     "type":3,
+     "api":"csp_AListxy",
+     "searchable":1,
+     "quickSearch":1,
+     "ext":"./Alistxy.json",
+     "jar":"./AListxy.jar"
+    },
     { "key":"sp360",
       "name":"♻️360影视.弹幕|解析",
       "type":3,
