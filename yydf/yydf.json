@@ -36,6 +36,28 @@
       "ext": "./lib/douban.js"
     },
     {
+      "key": "Aid",
+      "name": "🚑急救┃教学♻️",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "YGP",
+      "name": "♻️叨观荐影┃速递",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "豆豆",
       "name": "♻️豆瓣.饭",
       "type": 3,
