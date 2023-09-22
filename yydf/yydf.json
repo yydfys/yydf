@@ -2465,24 +2465,42 @@
       "url": "Demo"
     },
     {
-      "name": "♻️嗅探",
+      "name": "♻️聚合0",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "♻️Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "♻️Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "♻️追忆",
+      "name": "♻️神秘的哥哥们",
       "type": 1,
-      "url": "http://115.231.220.36:9999/jx/tvbox/xtwl.php?url="
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+    },
+    {
+      "name": "♻️解析",
+      "type": 1,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
     {
       "name": "♻️zhanglang",
