@@ -321,7 +321,7 @@
       }
     },
     {
-      "ext": "eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==",
+      "ext": "eyJhcGlLZXkiOiJjYzA1OTA2NS1iOGI3LTQ2ZTEtYWY3NS1jZjQ2Yzk5NDk0ODUiLCJhcGkiOiJodHRwOi8vNDMuMTM4LjE1NS4xNDA6NDU2NyJ9==",
       "filterable": 1,
       "quickSearch": 1,
       "name": "♻️小雅.搜[中原一点红大佬免费提供]",
@@ -331,7 +331,7 @@
         }
       },
       "changeable": 0,
-      "jar": "http://218.79.116.9:9245/spring.jar",
+      "jar": "http://43.138.155.140:4567/spring.jar",
       "api": "csp_XiaoYa",
       "type": 3,
       "key": "csp_XiaoYa",
