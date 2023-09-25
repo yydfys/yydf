@@ -166,8 +166,8 @@
        "name":"♻️速搜 | 优质",
        "type":3,
        "api":"csp_CandyMuj_sstv",
-       "searchable":0,
-       "quickSearch":0,
+       "searchable":1,
+       "quickSearch":1,
        "filterable":1,
        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"
     },
