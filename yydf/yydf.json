@@ -134,6 +134,59 @@
       "jar": "./920.jar"
     },
     {
+        "key":"♻️玩偶♻️",
+        "name":"♻️玩偶哥哥|4K",
+        "type":3,
+        "api":"csp_Wogg",
+        "searchable":1,
+        "filterable":1,
+        "changeable":1,
+        "ext": {
+      "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+      "filter": "./lib/wogg.json",
+      "danmu" : false},
+        "jar": "./928.jar"
+    },
+    {
+        "key":"玩偶弹幕版",
+        "name":"♻️玩偶哥哥弹幕版|4K",
+        "type":3,
+        "api":"csp_Wogg",
+        "searchable":1,
+        "filterable":1,
+        "changeable":0, 
+        "ext": {
+      "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+      "filter": "./lib/wogg.json",
+      "danmu" : true},
+        "jar": "./928.jar"
+        
+    },
+    {
+        "key":"♻️荐片♻️",
+        "name":"♻️荐片",
+        "type": 3,
+        "api":"csp_Jianpian",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext": {"danmu": false},
+        "jar": "./928.jar"
+        
+    },
+    {
+        "key":"荐片弹幕版",
+        "name":"♻️荐片弹幕版",
+        "type": 3,
+        "api":"csp_Jianpian",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext": {"danmu": true},
+        "jar": "./928.jar"
+        
+    },
+    {
       "key": "快帆",
       "name": "♻️ 快帆",
       "type": 1,
