@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "csp_WoGG",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+      "ext": "http://111.67.195.139/token.txt$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "4khdr_ali",
@@ -142,7 +142,7 @@
         "filterable":1,
         "changeable":1,
         "ext": {
-      "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+      "token": "http://111.67.195.139/token.txt",
       "filter": "./lib/wogg.json",
       "danmu" : false},
         "jar": "./928.jar"
@@ -156,7 +156,7 @@
         "filterable":1,
         "changeable":0, 
         "ext": {
-      "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+      "token": "http://111.67.195.139/token.txt",
       "filter": "./lib/wogg.json",
       "danmu" : true},
         "jar": "./928.jar"
@@ -409,7 +409,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -420,7 +420,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "PanSou",
@@ -431,7 +431,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "UpYun",
@@ -442,7 +442,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "PanSearch",
@@ -453,7 +453,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "七夜",
@@ -464,7 +464,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "Gitcafe",
@@ -476,7 +476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "csp_Zhaozy",
@@ -488,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt$$$yannanfei$$$abcdefg"
     },
     {
       "key": "csp_AliPS",
@@ -500,7 +500,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "csp_Yisou",
@@ -512,7 +512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -524,7 +524,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "广播迷",
@@ -1331,7 +1331,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "http://111.67.195.139/token.txt"
     },
     {
       "key": "csp_YQKAPP",
