@@ -146,7 +146,7 @@
                 "filter": "./wogg.json",
                 "danmu": false
             },
-            "jar": "./928.jar"
+            "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
         },
         {
             "key": "玩偶弹幕版",
@@ -161,7 +161,7 @@
                 "filter": "./wogg.json",
                 "danmu": true
             },
-            "jar": "./928.jar"
+            "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
         },
         {
             "key": "♻️荐片♻️",
@@ -174,7 +174,7 @@
             "ext": {
                 "danmu": false
             },
-            "jar": "./928.jar"
+            "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
         },
         {
             "key": "荐片弹幕版",
@@ -187,7 +187,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./928.jar"
+            "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
         },
         {
             "key": "快帆",
