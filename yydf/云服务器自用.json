@@ -143,7 +143,7 @@
             "changeable": 1,
             "ext": {
                 "token": "http://111.67.195.139/token.txt",
-                "filter": "./lib/wogg.json",
+                "filter": "./wogg.json",
                 "danmu": false
             },
             "jar": "./928.jar"
@@ -158,7 +158,7 @@
             "changeable": 0,
             "ext": {
                 "token": "http://111.67.195.139/token.txt",
-                "filter": "./lib/wogg.json",
+                "filter": "./wogg.json",
                 "danmu": true
             },
             "jar": "./928.jar"
