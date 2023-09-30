@@ -1,9 +1,10 @@
 {
-  "warningText": "🐼提醒您:本软件接口长期更新维护 请放心使用🐼",
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "sites": [
        {
       "key": "豆瓣",
-      "name": "关注微信公众号：影音天堂，还有更多好东西，免费接口",
+      "name": "豆瓣",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
@@ -13,7 +14,7 @@
     },
       {
             "key": "索尼",
-            "name": "🛸┃4K高清┃关注微信公众号：影音天堂，还有更多好东西",
+            "name": "🛸┃4K高清┃",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
@@ -126,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
     },
      {
       "key": "追忆",
@@ -318,7 +319,7 @@
       "key": "csp_Btwtoo",
       "name": "🎠┃比特┃2K",
       "type": 3,
-      "jar": "https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F",
+      "jar": "https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar",
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
@@ -379,7 +380,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt",
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },
      { "key": "csp_XYQHiker_‍dyx", "name": "🧲┃电影┃4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
@@ -692,7 +693,7 @@
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
-      "key": "Zhaozy",
+      "key": "Zhaozy1",
       "name": "🖥┃阿里┃4K找资源",
       "type": 3,
       "api": "csp_Zhaozy",
@@ -700,7 +701,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$ygfxz$$$66666"
     },
     {
       "key": "土拨鼠",
@@ -710,10 +711,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xBPQ/土拨鼠.json"
+      "ext": "./xBPQ/土拨鼠.json",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt"
     },
     {
-      "key": "Zhaozy",
+      "key": "Zhaozy2",
       "name": "🖥┃阿里┃4K找资源",
       "type": 3,
       "api": "csp_Zhaozy",
@@ -721,10 +723,10 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$tvfan$$$tvfan"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$tvfan$$$tvfan"
     },
     {
-      "key": "Zhaozy",
+      "key": "Zhaozy3",
       "name": "阿里┃4K资源",
       "type": 3,
       "api": "csp_Zhaozy",
@@ -732,20 +734,20 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
     },
     {
-      "key": "PanSearch",
+      "key": "PanSearch1",
       "name": "🖥┃阿里┃飞龙4K",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
-      "key": "七夜",
+      "key": "七夜1",
       "name": "🖥┃阿里┃七夜4K",
       "type": 3,
       "api": "csp_Dovx",
@@ -753,7 +755,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
       "key": "XYQaL_4kHDR",
@@ -761,7 +763,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
-      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt",
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
     },
     {
@@ -772,17 +774,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
-      "key": "Zhaozy",
+      "key": "Zhaozy4",
       "name": "🦊阿里┃4K找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -792,7 +794,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
       "key": "UpYun",
@@ -802,27 +804,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
-      "key": "PanSearch",
+      "key": "PanSearch2",
       "name": "🦊阿里┃4K盘Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
-      "key": "七夜",
+      "key": "七夜2",
       "name": "🦊阿里┃4K七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto"
     },
     {
       "key": "csp_MeiJu69",
@@ -1463,8 +1465,6 @@
 {"name":"嗅探2","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
 
   ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6",
   "lives": [
     {
       "name": "live",
