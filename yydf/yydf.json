@@ -143,7 +143,7 @@
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-                "filter": "./wogg.json",
+                "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
             "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
@@ -158,7 +158,7 @@
             "changeable": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-                "filter": "./wogg.json",
+                "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
             "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
