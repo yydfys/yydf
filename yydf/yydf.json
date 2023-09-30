@@ -345,6 +345,16 @@
             ]
         },
         {
+            "key": "追忆",
+            "name": "🍼┃追忆┃4K",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"
+        },
+        {
             "key": "drpy_js_优酷1",
             "name": "♻️优酷(官源)",
             "type": 3,
