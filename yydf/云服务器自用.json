@@ -30,7 +30,7 @@
     "sites": [
         {
             "key": "搜索┃豆瓣js",
-            "name": "♻️豆瓣┃公众号:业余打发。请使用最新版壳子体验新源！",
+            "name": "♻️豆瓣┃家用线路！",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js"
