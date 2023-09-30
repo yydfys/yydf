@@ -141,12 +141,12 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar",
             "ext": {
                 "token": "http://111.67.195.139/token.txt",
                 "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
                 "danmu": false
-            },
-            "jar": "./928.jar"
+            }
         },
         {
             "key": "玩偶弹幕版",
@@ -156,12 +156,12 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar",
             "ext": {
                 "token": "http://111.67.195.139/token.txt",
                 "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
                 "danmu": true
-            },
-            "jar": "./928.jar"
+            }
         },
         {
             "key": "♻️荐片♻️",
