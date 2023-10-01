@@ -2591,6 +2591,11 @@
             "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
+            "name": "♻️主解析",
+            "type": 1,
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+        },
+        {
             "name": "♻️解析",
             "type": 1,
             "url": "https://jx.zhanlangbu.com/?url=",
