@@ -120,7 +120,7 @@
             "api": "csp_AListxy",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./Alistxy.json",
+            "ext": "./Alistxy1.json",
             "jar": "./AListxy.jar"
         },
         {
