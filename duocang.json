@@ -1,13 +1,91 @@
-{"urls":[
- {"name": "♻️ 业余在线单仓[跑盘] ♻️","url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
- {"name": "♻️ 业余备用仓[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"},
- {"name": "♻️ 贼群友vip仓[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/tvboxvip.json"}, 
- {"name": "♻️ 阿里集搜线路[跑盘] ♻️","url": "https://pan.shangui.cc/f/d6qPho/ali.json"},
- {"name": "♻️ 阿里备用线路[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"},
- {"name": "♻️ 香雅情原版专线[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"},
- {"name": "♻️ 少儿益智频道专线[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/srpd.json"},
- {"name": "♻️ 磁力资源大集合[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/cili/cili.json"},
- {"name": "♻️ 傲娇的MAO JS源[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js.json"},
- {"name": "♻️ 永不失效的采集[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/caiji/caiji.json"},
- {"name": "♻️ 需壳支持PY资源[git] ♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/py.json"}]
+{
+  "urls": [
+   {
+      "name": "👨‍⚖️｜业余影视在线版｜👨‍⚖️","url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"
+    },
+    {
+      "name": "♻️｜业余在线备用仓｜♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+    },
+    {"name": "♻️｜贼群友vip仓｜♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/tvboxvip.json"}, 
+    {
+      "name": "🌨业余｜阿里魔镇🌨",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/alii1.json"
+    },
+    {
+      "name": "♻️业余｜业余专源♻️",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yeyu/yydf_tv.json"
+    },
+    {
+      "name": "🧚‍♂️业余｜PG.影视🧚‍♂️",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/PG1.json"
+    },
+    {
+      "name": "☘️业余｜高天影视☘️",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/gtly1.json"
+    },
+    {
+      "name": "🐝业余｜天下第一🐝",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/fm1.json"
+    },
+    {
+      "name": "‍🐾业余｜猫爪专线🐾",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/maojs/js.json"
+    },
+    {
+      "name": "🍚业余｜神秘小米🍚",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/xm1.json"
+    },
+    {
+      "name": "🌻业余｜香雅情神🌻",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/xyq1.json"
+    },
+    {
+      "name": "🌾业余｜饭太坚硬🌾",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/fty1.json"
+    },
+    {
+      "name": "🐼业余｜肥猫美妞🐼",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/feim1.json"
+    },
+    {
+      "name": "🔥业余｜多多聪明🔥",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/dduo1.json"
+    },
+    {
+      "name": "🚜业余｜运输车姐🚜",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ysc.json"
+    },
+    {
+      "name": "🌱业余｜菜妮丝佬🌱",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/cns1.json"
+    },
+    {
+      "name": "🍵业余｜荷城茶秀🍵",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/hccx1.json"
+    },
+    {
+      "name": "🐈业余｜夜猫有情🐈",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ymz.json"
+    },
+    {
+      "name": "🙈业余｜宝盒有宝🙈",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ygbh1.json"
+    },
+    {
+      "name": "🦆业余｜南风俊逸🦆",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/nf/XC1.json"
+    },
+    {
+      "name": "🦹‍业余｜道长至尊🦹‍♂️",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/drpy/dz1.json"
+    },
+    {
+      "name": "🌛业余｜霜辉月明🌜",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/shym1.json"
+    },
+    {
+      "name": "🤹🏼业余｜少儿益智🤹🏼",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/srpd/srpd.json"
+    }
+  ]
 }
