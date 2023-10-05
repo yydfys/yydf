@@ -1,4 +1,6 @@
 {
+  "warningText": "接口完全免费，切勿付费购买。",
+  "warningText": "关注公众号:业余打发，分享者随时更新。",
   "urls": [
     {
       "name": "👨‍⚖️｜业余影视在线版｜👨‍⚖️",
@@ -6,11 +8,11 @@
     },
     {
       "name": "♻️｜业余在线备用仓｜♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+      "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydf.json"
     },
     {
       "name": "♻️｜贼群友vip仓｜♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/tvboxvip.json"
+      "url": "http://ftp6587948.host121.sanfengyun.cn/tvboxvip.json"
     },
     {
       "name": "🌨业余｜阿里魔镇🌨",
