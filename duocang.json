@@ -1,12 +1,17 @@
 {
   "urls": [
-   {
-      "name": "👨‍⚖️｜业余影视在线版｜👨‍⚖️","url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"
+    {
+      "name": "👨‍⚖️｜业余影视在线版｜👨‍⚖️",
+      "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"
     },
     {
-      "name": "♻️｜业余在线备用仓｜♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+      "name": "♻️｜业余在线备用仓｜♻️",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
     },
-    {"name": "♻️｜贼群友vip仓｜♻️","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/tvboxvip.json"}, 
+    {
+      "name": "♻️｜贼群友vip仓｜♻️",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/tvboxvip.json"
+    },
     {
       "name": "🌨业余｜阿里魔镇🌨",
       "url": "http://ftp6587948.host121.sanfengyun.cn/alii1.json"
