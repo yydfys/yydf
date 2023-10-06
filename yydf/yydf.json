@@ -93,6 +93,13 @@
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
         },
+        {   "key":"布蕾影视",
+            "name":"♻️️布蕾┃影视",
+            "type":3,
+            "api":"csp_Appto",
+            "playerType":2,
+            "ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ=="
+        },
         {
             "key": "4khdr_ali",
             "name": "♻️4KHDR_ali",
