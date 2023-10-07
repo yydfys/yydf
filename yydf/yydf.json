@@ -126,6 +126,17 @@
       }
     },
     {
+      "key": "玉米[js]",
+      "name": "♻️玉米[js]",
+      "api": "./lib/drpy2.min.js",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "./lib/ym.js"
+    },
+    {
       "key": "csp_YGP",
       "name": "♻️叨观荐影┃速递",
       "type": 3,
