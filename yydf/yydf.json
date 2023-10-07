@@ -113,6 +113,36 @@
             "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
         },
         {
+      "key": "csp_XBPQ_miniju",
+      "name": "♻️迷迷剧 | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+        "分类": "电影$22#电视剧$21#短剧$20#动漫$23#综艺$24"
+      }
+    },
+    {
+      "key": "yp",
+      "name": "♻️YP",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "欧美剧",
+        "日韩剧",
+        "国产剧",
+        "电影"
+      ]
+    },
+        {
       "key": "♻️csp_好戏",
       "name": "♻️好戏影视",
       "type": 3,
