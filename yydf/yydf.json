@@ -43,7 +43,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./lib/pg.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
     },
@@ -55,7 +55,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./lib/pg.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/pg.jar",
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
     },
