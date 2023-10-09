@@ -69,7 +69,7 @@
       },
       "jar": "./lib/pg.jar",
       "api": "csp_Hdhive",
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$socks5://192.168.101.1:1080"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_XBPQ_vstv",
