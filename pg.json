@@ -3,12 +3,45 @@
   "wallpaper": "http://xhww.fun:63/img.php",
   "sites": [
     {
-      "key":"WoGG",
+      "key":"WoGG33",
       "name":"玩偶哥哥 I业余♻️",
       "type":3,
       "style": {"type": "rect","ratio":1.597},
       "api":"csp_Wogg",
       "ext":"http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "Wogg22",
+      "name": "♻️阿里|玩偶哥哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "♻️阿里|玩偶表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "Hdhive",
+      "name": "♻️阿里|影巢",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_Hdhive",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "drpy_js_4KHDR",
