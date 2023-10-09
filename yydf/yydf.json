@@ -105,9 +105,7 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "changeable": 1,
-      "ext": "http://v.aaaa0.top:2525/api.php/app/",
-      "playUrl": "http://jx.daenys.vip:2587/tnmb.php?url="
-      
+      "ext": "http://v.aaaa0.top:2525/api.php/app/"      
     },
     {
       "key": "FirstAid",
