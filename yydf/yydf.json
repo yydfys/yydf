@@ -60,18 +60,6 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
     },
     {
-      "key": "Hdhive",
-      "name": "♻️阿里|影巢",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./lib/pg.jar",
-      "api": "csp_Hdhive",
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
-    },
-    {
       "key": "csp_XBPQ_vstv",
       "name": "♻️VS短剧",
       "type": 3,
