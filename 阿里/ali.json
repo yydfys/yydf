@@ -40,15 +40,41 @@
    "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/🧚‍♂️.jar"
     },
-    { "key": "csp_Hdhive_影巢",
-      "name":"🎥影巢.阿里|业余♻️",
-      "type":3,
-      "api":"csp_Hdhive",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/🎥.jar"
+    {
+      "key": "Wogg",
+      "name": "♻️阿里|玩偶哥哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pgjar",
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "♻️阿里|玩偶表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pgjar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "Hdhive",
+      "name": "♻️阿里|影巢",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pgjar",
+      "api": "csp_Hdhive",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "🍮Gitcafe6",
