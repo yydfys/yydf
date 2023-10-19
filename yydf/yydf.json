@@ -42,8 +42,8 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "http://111.68.195.139/yydf/lib/market.json",
-      "jar": "http://111.68.195.139/yydf/lib/fm商店.jar"
+      "ext": "http://111.67.195.139/yydf/lib/market.json",
+      "jar": "http://111.67.195.139/yydf/lib/fm商店.jar"
     },
     {
       "key": "csp_Alistxy",
@@ -366,13 +366,13 @@
       "ext": {
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "jojo弹幕直连",
       "name": "♻️JOJO弹幕版|直连",
       "type": 3,
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar",
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
       "api": "csp_Jiohub",
       "searchable": 1,
       "filterable": 1,
@@ -389,10 +389,10 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar",
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
       "key": "csp_OK荐片",
       "name": "♻️荐片|无弹幕",
       "type": 3,
@@ -405,7 +405,7 @@
       }
     },
     {
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar",
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
       "key": "ok荐片弹幕版",
       "name": "♻️荐片弹幕版",
       "type": 3,
@@ -429,7 +429,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "盘Se弹幕版",
@@ -443,7 +443,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "找資源弹幕版",
@@ -459,7 +459,7 @@
         "password": "zhaoziyuannb",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "七夜弹幕版",
@@ -473,7 +473,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "盘搜弹幕版",
@@ -487,7 +487,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "易搜弹幕版",
@@ -501,7 +501,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.68.195.139/yydf/lib/danmu.jar"
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
     },
     {
       "key": "布蕾影视",
