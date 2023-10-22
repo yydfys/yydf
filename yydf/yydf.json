@@ -727,7 +727,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./920.jar"
+      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/danmu.jar"
     },
     {
       "key": "♻️玩偶♻️",
@@ -742,7 +742,7 @@
         "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
         "danmu": false
       },
-      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
+      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/danmu.jar"
     },
     {
       "key": "玩偶弹幕版",
@@ -757,7 +757,7 @@
         "filter": "http://ftp6587948.host121.sanfengyun.cn/json/wogg.json",
         "danmu": true
       },
-      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
+      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/danmu.jar"
     },
     {
       "key": "♻️荐片♻️",
@@ -770,7 +770,7 @@
       "ext": {
         "danmu": false
       },
-      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
+     "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/danmu.jar"
     },
     {
       "key": "荐片弹幕版",
@@ -783,7 +783,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/928.jar"
+      "jar": "http://ftp6587948.host121.sanfengyun.cn/jar/danmu.jar"
     },
     {
       "key": "快帆",
