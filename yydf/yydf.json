@@ -94,6 +94,16 @@
       }
     },
     {
+            "key": "追忆",
+            "name": "♻️追忆┃秒播",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
+        },
+    {
       "key": "Wogg",
       "name": "♻️阿里|玩偶哥哥",
       "type": 3,
