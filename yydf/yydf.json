@@ -234,6 +234,26 @@
       }
     },
     {
+            "key": "毛驴",
+            "name": "🍓毛驴┃直连",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "蚂蚁",
+            "name": "🐜蚂蚁┃直连",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://rzys.xyz"
+        },
+    {
       "key": "csp_XBPQ_jubaibai",
       "name": "♻️剧白白",
       "type": 3,
@@ -312,14 +332,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_WoGG",
-      "name": "♻️玩偶.饭",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.tx+4k|auto|fhdt$$$http://tvfan.xxooo.cf/"
+            "key": "csp_WoGG",
+            "name": "👽玩偶哥哥┃4K.饭",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$关"
     },
     {
       "key": "gitcafe_php",
