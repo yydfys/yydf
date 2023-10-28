@@ -30,7 +30,7 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:业余打发。请使用影视最新版壳子体验新源！",
+      "name": "♻️豆瓣┃公众号:业余打发。",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/douban.js"
@@ -44,26 +44,6 @@
       "changeable": 0,
       "ext": "http://111.67.195.139/yydf/lib/market.json",
       "jar": "http://111.67.195.139/yydf/lib/fm商店.jar"
-    },
-    {
-      "key": "csp_Alistxy",
-      "name": "🅿️Alist网盘♻️",
-      "type": 3,
-      "jar": "http://111.67.195.139/yydf/lib/AListxy.jar",
-      "api": "csp_AListxy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://111.67.195.139/yydf/lib/market.json"
-    },
-    {
-      "key": "追忆秒播",
-      "name": "♻️追忆┃秒播",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
     },
     {
       "key": "Wogg",
@@ -333,13 +313,13 @@
     },
     {
             "key": "csp_WoGG",
-            "name": "👽玩偶哥哥┃4K.饭",
+            "name": "👽玩偶哥哥┃4K.弹幕饭",
             "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$关"
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$弹"
     },
     {
       "key": "gitcafe_php",
