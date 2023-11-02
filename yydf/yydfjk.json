@@ -5,7 +5,7 @@
     {
       "name": "♻️live",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/live.txt",
+      "url": "http:111.67.195.139/yydf/lib/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,7 +13,7 @@
     {
       "name": "♻️TV",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/zhibo.txt",
+      "url": "http:111.67.195.139/yydf/lib/zhibo.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -21,7 +21,7 @@
     {
       "name": "♻️MTV",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/MTV.txt",
+      "url": "http:111.67.195.139/yydf/lib/MTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
