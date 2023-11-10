@@ -80,16 +80,6 @@
       "changeable": 1
     },
     {
-      "key": "极光",
-      "name": "☀极光",
-       "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
-    },
-    {
       "key": "橘子",
       "name": "🍊橘子",
       "type": 3,
@@ -1528,17 +1518,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aikanyngyuan.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_爱看影视",
-      "name": "♻️爱看",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aikanyingshi.json",
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
