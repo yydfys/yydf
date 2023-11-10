@@ -82,7 +82,7 @@
     {
       "key": "极光",
       "name": "☀极光",
-      "type": 3,
+       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
