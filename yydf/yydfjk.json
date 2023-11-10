@@ -71,7 +71,7 @@
     },
     {
       "key": "NanGua",
-      "name": "🎃南瓜|PG弹幕",
+      "name": "🎃南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
