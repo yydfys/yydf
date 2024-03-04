@@ -7,17 +7,7 @@ import push from "./spider/video/push.js";
 import alist from "./spider/pan/alist.js";
 import _13bqg from "./spider/book/13bqg.js";
 import copymanga from "./spider/book/copymanga.js";
-const spiders = [
-  douban,
-  wogg,
-  kunyu77,
-  kkys,
-  ffm3u8,
-  push,
-  alist,
-  _13bqg,
-  copymanga,
-];
+const spiders = [douban,wogg,kunyu77,kkys,ffm3u8,push,alist,_13bqg,copymanga,];
 const spiderPrefix = '/spider';
 
 /**
