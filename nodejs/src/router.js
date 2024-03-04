@@ -1,14 +1,23 @@
-import douban from './spider/video/douban.js';
-import wogg from './spider/video/wogg.js';
-import kunyu77 from './spider/video/kunyu77.js';
-import kkys from './spider/video/kkys.js';
-import push from './spider/video/push.js';
-import alist from './spider/pan/alist.js';
-import _13bqg from './spider/book/13bqg.js';
-import copymanga from './spider/book/copymanga.js';
-import ffm3u8 from './spider/video/ffm3u8.js';
-
-const spiders = [kunyu77, kkys, ffm3u8, push, alist, _13bqg, copymanga];
+import douban from "./spider/video/douban.js";
+import wogg from "./spider/video/wogg.js";
+import kunyu77 from "./spider/video/kunyu77.js";
+import kkys from "./spider/video/kkys.js";
+import ffm3u8 from "./spider/video/ffm3u8.js";
+import push from "./spider/video/push.js";
+import alist from "./spider/pan/alist.js";
+import _13bqg from "./spider/book/13bqg.js";
+import copymanga from "./spider/book/copymanga.js";
+const spiders = [
+  douban,
+  wogg,
+  kunyu77,
+  kkys,
+  ffm3u8,
+  push,
+  alist,
+  _13bqg,
+  copymanga,
+];
 const spiderPrefix = '/spider';
 
 /**
